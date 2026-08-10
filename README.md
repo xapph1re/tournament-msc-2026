@@ -4,7 +4,7 @@ Tournament MLBB MSC 2026 Data Analysis using Excel & Power BI
 
 [![Esports World Cup 2026](https://img.shields.io/badge/EWC-2026-gold?style=for-the-badge&logo=trophy)](https://esportsworldcup.com/)
 [![Mid Season Cup 2026](https://img.shields.io/badge/Tournament-MSC_2026-0B00A3?style=for-the-badge)]([https://liquipedia.net/mobilelegends/MSC/2026])
-[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](#-dashboard-preview--features
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](#-dashboard-preview--features)
 [![Dataset](https://img.shields.io/badge/Format-CSV-green?style=for-the-badge)](#-repository-structure)
 
 ---
