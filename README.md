@@ -55,7 +55,7 @@ Karena data mentah turnamen belum tersedia secara publik saat kompetisi berakhir
 [ msc_all_general_fix.csv ]
             │
             ▼  (Data Cleaning & Transformation)
-[ Power BI Desktop ] ─────────► (Build MSC_2026.pbix)
+[ Power BI Desktop ] ─────────► (Build MSC 2026.pbix)
             │
             ▼  (Data Modeling & DAX Calculations)
 
@@ -64,7 +64,7 @@ Karena data mentah turnamen belum tersedia secara publik saat kompetisi berakhir
 
 - **Data Collection:** Liquipedia Web Scraping & YouTube Tournament Review
 - **Data Storage:** Flat CSV (`msc_all_general_fix`)
-- **Data Visualization & Modeling:** Microsoft Power BI (`MSC_2026.pbix`)
+- **Data Visualization & Modeling:** Microsoft Power BI (`MSC 2026.pbix`)
 - **Version Control & Portfolio:** GitHub
 
 ---
@@ -73,8 +73,8 @@ Karena data mentah turnamen belum tersedia secara publik saat kompetisi berakhir
 
 ```text
 .
-├── 📄 msc_all_general_fix.csv       # Raw & Cleaned Dataset (CSV Format)
-├── 📊 MSC_2026.pbix # Master Power BI Report File
+├── 📄 msc_all_general_fix.csv          # Raw & Cleaned Dataset (CSV Format)
+├── 📊 MSC 2026.pbix                    # Master Power BI Report File
 ├── 🖼️ msc_dashboard_overview.png       # Screenshot / Preview Dashboard
 └── 📝 README.md                        # Project Documentation
 ```
