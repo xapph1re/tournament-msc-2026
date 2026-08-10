@@ -3,8 +3,7 @@ Tournament MLBB MSC 2026 Data Analysis using Excel & Power BI
 # 🏆 Mobile Legends: Bang Bang MSC 2026
 
 [![Esports World Cup 2026](https://img.shields.io/badge/EWC-2026-gold?style=for-the-badge&logo=trophy)](https://esportsworldcup.com/)
-[![Mid Season Cup 2026](<img width="1200" height="263" alt="image" src="https://github.com/user-attachments/assets/8c2a0d89-e6ad-4673-9bb7-7c5487e8f52c" />)
-]([https://liquipedia.net/mobilelegends/MSC/2026])
+[![Mid Season Cup 2026](https://img.shields.io/badge/Tournament-MSC_2026-ff69b4?style=for-the-badge)]([https://liquipedia.net/mobilelegends/MSC/2026])
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](#-dashboard-preview--features
 [![Dataset](https://img.shields.io/badge/Format-CSV-green?style=for-the-badge)](#-repository-structure)
 
