@@ -1,0 +1,781 @@
+GameID;Date;Side;Win/Lose;Player;Lane;Hero;Ban Hero;Spell;Team;Opponent;Skor Game;Kill;Death;Assist;Duration;Map;Stage
+MSC26_GA_M01_G1;22/07/2026;Blue;Win;Sepat;Explane;Lapu lapu;Marcel;Flicker;Team Vamos;Team Falcons;1 - 0;5;2;10;14:27;Broken Walls;Group A
+MSC26_GA_M01_G1;22/07/2026;Blue;Win;Error404;Jungler;Guinevere;Phoveus;Retribution;Team Vamos;Team Falcons;1 - 0;5;2;9;14:27;Broken Walls;Group A
+MSC26_GA_M01_G1;22/07/2026;Blue;Win;ClawKun;Midlane;Eudora;Zhuxin;Flicker;Team Vamos;Team Falcons;1 - 0;3;2;10;14:27;Broken Walls;Group A
+MSC26_GA_M01_G1;22/07/2026;Blue;Win;Natco;Goldlane;Claude;Moskov;Purify;Team Vamos;Team Falcons;1 - 0;3;2;10;14:27;Broken Walls;Group A
+MSC26_GA_M01_G1;22/07/2026;Blue;Win;Zqeef;Roamer;Atlas;Belerick;Flicker;Team Vamos;Team Falcons;1 - 0;2;3;11;14:27;Broken Walls;Group A
+MSC26_GA_M01_G1;22/07/2026;Red;Lose;Sanji(FL);Explane;Arlott;Fanny;Flicker;Team Falcons;Team Vamos;0 - 1;4;5;5;14:27;Broken Walls;Group A
+MSC26_GA_M01_G1;22/07/2026;Red;Lose;Boyet;Jungler;Akai;Freya;Retribution;Team Falcons;Team Vamos;0 - 1;4;4;6;14:27;Broken Walls;Group A
+MSC26_GA_M01_G1;22/07/2026;Red;Lose;Cuffin;Midlane;Valentina;Hirara;Flicker;Team Falcons;Team Vamos;0 - 1;0;4;11;14:27;Broken Walls;Group A
+MSC26_GA_M01_G1;22/07/2026;Red;Lose;Saano;Goldlane;Bruno;Yu Zhong;Purify;Team Falcons;Team Vamos;0 - 1;1;3;5;14:27;Broken Walls;Group A
+MSC26_GA_M01_G1;22/07/2026;Red;Lose;Trolll;Roamer;Chou;Paquito;Flicker;Team Falcons;Team Vamos;0 - 1;2;2;8;14:27;Broken Walls;Group A
+MSC26_GA_M01_G2;22/07/2026;Red;Win;Sepat;Explane;Esmeralda;Marcel;Purify;Team Vamos;Team Falcons;2 - 0;0;3;9;15:27;Broken Walls;Group A
+MSC26_GA_M01_G2;22/07/2026;Red;Win;Error404;Jungler;Ling;Atlas;Retribution;Team Vamos;Team Falcons;2 - 0;10;0;4;15:27;Broken Walls;Group A
+MSC26_GA_M01_G2;22/07/2026;Red;Win;ClawKun;Midlane;Eudora;Hilda;Flicker;Team Vamos;Team Falcons;2 - 0;1;5;9;15:27;Broken Walls;Group A
+MSC26_GA_M01_G2;22/07/2026;Red;Win;Natco;Goldlane;Melissa;Baxia;Flicker;Team Vamos;Team Falcons;2 - 0;4;5;7;15:27;Broken Walls;Group A
+MSC26_GA_M01_G2;22/07/2026;Red;Win;Zqeef;Roamer;Minotaur;Moskov;Flicker;Team Vamos;Team Falcons;2 - 0;2;2;10;15:27;Broken Walls;Group A
+MSC26_GA_M01_G2;22/07/2026;Blue;Lose;Sanji(FL);Explane;Alice;Fanny;Flicker;Team Falcons;Team Vamos;0 - 2;2;3;9;15:27;Broken Walls;Group A
+MSC26_GA_M01_G2;22/07/2026;Blue;Lose;Boyet;Jungler;Harley;Phoveus;Retribution;Team Falcons;Team Vamos;0 - 2;4;3;5;15:27;Broken Walls;Group A
+MSC26_GA_M01_G2;22/07/2026;Blue;Lose;Cuffin;Midlane;Valentina;Hirara;Flicker;Team Falcons;Team Vamos;0 - 2;2;4;6;15:27;Broken Walls;Group A
+MSC26_GA_M01_G2;22/07/2026;Blue;Lose;Saano;Goldlane;Freya;Belerick;Vengeance;Team Falcons;Team Vamos;0 - 2;7;4;5;15:27;Broken Walls;Group A
+MSC26_GA_M01_G2;22/07/2026;Blue;Lose;Trolll;Roamer;Chou;Gloo;Flicker;Team Falcons;Team Vamos;0 - 2;0;3;12;15:27;Broken Walls;Group A
+MSC26_GA_M02_G1;22/07/2026;Blue;Win;Flap;Explane;Dyrroth;Belerick;Flicker;Team Falcons PH;Guangzhou Gaming;1 - 0;1;3;8;15:26;Expanding Rivers;Group A
+MSC26_GA_M02_G1;22/07/2026;Blue;Win;Kyle;Jungler;Ling;Claude;Retribution;Team Falcons PH;Guangzhou Gaming;1 - 0;6;1;5;15:26;Expanding Rivers;Group A
+MSC26_GA_M02_G1;22/07/2026;Blue;Win;Hadji;Midlane;Lylia;Fanny;Flicker;Team Falcons PH;Guangzhou Gaming;1 - 0;2;1;12;15:26;Expanding Rivers;Group A
+MSC26_GA_M02_G1;22/07/2026;Blue;Win;Super Marco;Goldlane;Brody;Hayabusa;Flicker;Team Falcons PH;Guangzhou Gaming;1 - 0;7;2;5;15:26;Expanding Rivers;Group A
+MSC26_GA_M02_G1;22/07/2026;Blue;Win;Owgwen;Roamer;Gloo;Yve;Flicker;Team Falcons PH;Guangzhou Gaming;1 - 0;1;3;9;15:26;Expanding Rivers;Group A
+MSC26_GA_M02_G1;22/07/2026;Red;Lose;Modi;Explane;Esmeralda;Hirara;Vengeance;Guangzhou Gaming;Team Falcons PH;0 - 1;0;4;5;15:26;Expanding Rivers;Group A
+MSC26_GA_M02_G1;22/07/2026;Red;Lose;ReCall;Jungler;Nolan;Freya;Retribution;Guangzhou Gaming;Team Falcons PH;0 - 1;5;2;3;15:26;Expanding Rivers;Group A
+MSC26_GA_M02_G1;22/07/2026;Red;Lose;Xying;Midlane;Zhuxin;Atlas;Flicker;Guangzhou Gaming;Team Falcons PH;0 - 1;1;3;7;15:26;Expanding Rivers;Group A
+MSC26_GA_M02_G1;22/07/2026;Red;Lose;Cy;Goldlane;Harith;Eudora;Purify;Guangzhou Gaming;Team Falcons PH;0 - 1;2;3;3;15:26;Expanding Rivers;Group A
+MSC26_GA_M02_G1;22/07/2026;Red;Lose;Meii;Roamer;Hilda;Lunox;Flicker;Guangzhou Gaming;Team Falcons PH;0 - 1;2;5;5;15:26;Expanding Rivers;Group A
+MSC26_GA_M02_G2;22/07/2026;Red;Win;Flap;Explane;Sora;Freya;Flicker;Team Falcons PH;Guangzhou Gaming;2 - 0;1;2;6;15:52;Dangerous Grass;Group A
+MSC26_GA_M02_G2;22/07/2026;Red;Win;Kyle;Jungler;Harley;Marcel;Retribution;Team Falcons PH;Guangzhou Gaming;2 - 0;6;1;5;15:52;Dangerous Grass;Group A
+MSC26_GA_M02_G2;22/07/2026;Red;Win;Hadji;Midlane;Eudora;Atlas;Flicker;Team Falcons PH;Guangzhou Gaming;2 - 0;4;1;7;15:52;Dangerous Grass;Group A
+MSC26_GA_M02_G2;22/07/2026;Red;Win;Super Marco;Goldlane;Moskov;Barats;Purify;Team Falcons PH;Guangzhou Gaming;2 - 0;6;0;1;15:52;Dangerous Grass;Group A
+MSC26_GA_M02_G2;22/07/2026;Red;Win;Owgwen;Roamer;Akai;Uranus;Flicker;Team Falcons PH;Guangzhou Gaming;2 - 0;0;2;10;15:52;Dangerous Grass;Group A
+MSC26_GA_M02_G2;22/07/2026;Blue;Lose;Modi;Explane;Paquito;Ling;Flicker;Guangzhou Gaming;Team Falcons PH;0 - 2;0;3;2;15:52;Dangerous Grass;Group A
+MSC26_GA_M02_G2;22/07/2026;Blue;Lose;ReCall;Jungler;Hirara;Fanny;Retribution;Guangzhou Gaming;Team Falcons PH;0 - 2;2;6;4;15:52;Dangerous Grass;Group A
+MSC26_GA_M02_G2;22/07/2026;Blue;Lose;Xying;Midlane;Yve;Esmeralda;Flicker;Guangzhou Gaming;Team Falcons PH;0 - 2;2;3;4;15:52;Dangerous Grass;Group A
+MSC26_GA_M02_G2;22/07/2026;Blue;Lose;Cy;Goldlane;Claude;Brody;Purify;Guangzhou Gaming;Team Falcons PH;0 - 2;1;2;3;15:52;Dangerous Grass;Group A
+MSC26_GA_M02_G2;22/07/2026;Blue;Lose;Meii;Roamer;Grock;Clint;Flicker;Guangzhou Gaming;Team Falcons PH;0 - 2;1;3;5;15:52;Dangerous Grass;Group A
+MSC26_GA_M03_G1;22/07/2026;Blue;Win;Shogun;Explane;Paquito;Phoveus;Flicker;Team Vitality;True Rippers;1 - 0;5;0;3;09:50;Flying Clouds;Group A
+MSC26_GA_M03_G1;22/07/2026;Blue;Win;Nnael;Jungler;Akai;Zhuxin;Retribution;Team Vitality;True Rippers;1 - 0;3;2;11;09:50;Flying Clouds;Group A
+MSC26_GA_M03_G1;22/07/2026;Blue;Win;Moreno;Midlane;Valentina;Guinevere;Flicker;Team Vitality;True Rippers;1 - 0;4;0;8;09:50;Flying Clouds;Group A
+MSC26_GA_M03_G1;22/07/2026;Blue;Win;Emann;Goldlane;Claude;Esmeralda;Purify;Team Vitality;True Rippers;1 - 0;5;0;8;09:50;Flying Clouds;Group A
+MSC26_GA_M03_G1;22/07/2026;Blue;Win;Finn;Roamer;Atlas;Uranus;Flicker;Team Vitality;True Rippers;1 - 0;1;2;13;09:50;Flying Clouds;Group A
+MSC26_GA_M03_G1;22/07/2026;Red;Lose;Rehansyah;Explane;Alice;Freya;Flicker;True Rippers;Team Vitality;0 - 1;0;4;4;09:50;Flying Clouds;Group A
+MSC26_GA_M03_G1;22/07/2026;Red;Lose;IYanZz;Jungler;Ling;Hirara;Retribution;True Rippers;Team Vitality;0 - 1;2;2;1;09:50;Flying Clouds;Group A
+MSC26_GA_M03_G1;22/07/2026;Red;Lose;Asuna;Midlane;Eudora;Marcel;Flicker;True Rippers;Team Vitality;0 - 1;1;3;3;09:50;Flying Clouds;Group A
+MSC26_GA_M03_G1;22/07/2026;Red;Lose;Garcia;Goldlane;Karrie;Moskov;Flicker;True Rippers;Team Vitality;0 - 1;0;4;0;09:50;Flying Clouds;Group A
+MSC26_GA_M03_G1;22/07/2026;Red;Lose;Kimyy;Roamer;Badang;Arlott;Flicker;True Rippers;Team Vitality;0 - 1;1;5;1;09:50;Flying Clouds;Group A
+MSC26_GA_M03_G2;22/07/2026;Red;Win;Shogun;Explane;Belerick;Guinevere;Revitalize;Team Vitality;True Rippers;2 - 0;3;6;13;21:58;Dangerous Grass;Group A
+MSC26_GA_M03_G2;22/07/2026;Red;Win;Nnael;Jungler;Hirara;Freya;Retribution;Team Vitality;True Rippers;2 - 0;13;4;8;21:58;Dangerous Grass;Group A
+MSC26_GA_M03_G2;22/07/2026;Red;Win;Moreno;Midlane;Selena;Esmeralda;Flicker;Team Vitality;True Rippers;2 - 0;4;2;15;21:58;Dangerous Grass;Group A
+MSC26_GA_M03_G2;22/07/2026;Red;Win;Emann;Goldlane;Harith;Eudora;Purify;Team Vitality;True Rippers;2 - 0;5;2;10;21:58;Dangerous Grass;Group A
+MSC26_GA_M03_G2;22/07/2026;Red;Win;Finn;Roamer;Chou;Zhuxin;Flicker;Team Vitality;True Rippers;2 - 0;1;6;14;21:58;Dangerous Grass;Group A
+MSC26_GA_M03_G2;22/07/2026;Blue;Lose;Rehansyah;Explane;Uranus;Marcel;Purify;True Rippers;Team Vitality;0 - 2;4;4;11;21:58;Dangerous Grass;Group A
+MSC26_GA_M03_G2;22/07/2026;Blue;Lose;IYanZz;Jungler;Yi Sunshin;Valentina;Retribution;True Rippers;Team Vitality;0 - 2;5;7;13;21:58;Dangerous Grass;Group A
+MSC26_GA_M03_G2;22/07/2026;Blue;Lose;Asuna;Midlane;Gord;Ling;Flicker;True Rippers;Team Vitality;0 - 2;5;6;9;21:58;Dangerous Grass;Group A
+MSC26_GA_M03_G2;22/07/2026;Blue;Lose;Garcia;Goldlane;Moskov;Claude;Purify;True Rippers;Team Vitality;0 - 2;6;0;10;21:58;Dangerous Grass;Group A
+MSC26_GA_M03_G2;22/07/2026;Blue;Lose;Kimyy;Roamer;Atlas;Karrie;Flicker;True Rippers;Team Vitality;0 - 2;0;9;15;21:58;Dangerous Grass;Group A
+MSC26_GA_M04_G1;22/07/2026;Blue;Win;Kid Bomba;Explane;Esmeralda;Phoveus;Flicker;Team Spirit;IGNITE Gaming;1 - 0;1;1;6;13:13;Flying Clouds;Group A
+MSC26_GA_M04_G1;22/07/2026;Blue;Win;zaur egoist;Jungler;Ling;Atlas;Retribution;Team Spirit;IGNITE Gaming;1 - 0;6;0;3;13:13;Flying Clouds;Group A
+MSC26_GA_M04_G1;22/07/2026;Blue;Win;Sunset Lover;Midlane;Zhuxin;Eudora;Purify;Team Spirit;IGNITE Gaming;1 - 0;1;0;7;13:13;Flying Clouds;Group A
+MSC26_GA_M04_G1;22/07/2026;Blue;Win;Hiko;Goldlane;Paquito;Melissa;Flicker;Team Spirit;IGNITE Gaming;1 - 0;2;0;5;13:13;Flying Clouds;Group A
+MSC26_GA_M04_G1;22/07/2026;Blue;Win;Sawo;Roamer;Minotaur;Brody;Flicker;Team Spirit;IGNITE Gaming;1 - 0;0;1;7;13:13;Flying Clouds;Group A
+MSC26_GA_M04_G1;22/07/2026;Red;Lose;Diablo;Explane;Uranus;Freya;Flicker;IGNITE Gaming;Team Spirit;0 - 1;1;4;1;13:13;Flying Clouds;Group A
+MSC26_GA_M04_G1;22/07/2026;Red;Lose;Kelvin;Jungler;Suyou;Fanny;Retribution;IGNITE Gaming;Team Spirit;0 - 1;1;2;1;13:13;Flying Clouds;Group A
+MSC26_GA_M04_G1;22/07/2026;Red;Lose;Roy;Midlane;Valentina;Hirara;Flicker;IGNITE Gaming;Team Spirit;0 - 1;0;1;2;13:13;Flying Clouds;Group A
+MSC26_GA_M04_G1;22/07/2026;Red;Lose;CS;Goldlane;Moskov;Belerick;Flicker;IGNITE Gaming;Team Spirit;0 - 1;0;1;1;13:13;Flying Clouds;Group A
+MSC26_GA_M04_G1;22/07/2026;Red;Lose;Jayy;Roamer;Chou;Gloo;Flicker;IGNITE Gaming;Team Spirit;0 - 1;0;2;2;13:13;Flying Clouds;Group A
+MSC26_GA_M04_G2;22/07/2026;Red;Win;Kid Bomba;Explane;Barats;Eudora;Flicker;Team Spirit;IGNITE Gaming;2 - 0;0;5;7;22:42;Flying Clouds;Group A
+MSC26_GA_M04_G2;22/07/2026;Red;Win;zaur egoist;Jungler;Hirara;Atlas;Retribution;Team Spirit;IGNITE Gaming;2 - 0;10;2;6;22:42;Flying Clouds;Group A
+MSC26_GA_M04_G2;22/07/2026;Red;Win;Sunset Lover;Midlane;Zhuxin;Belerick;Flicker;Team Spirit;IGNITE Gaming;2 - 0;1;2;16;22:42;Flying Clouds;Group A
+MSC26_GA_M04_G2;22/07/2026;Red;Win;Hiko;Goldlane;Freya;Esmeralda;Flicker;Team Spirit;IGNITE Gaming;2 - 0;9;0;8;22:42;Flying Clouds;Group A
+MSC26_GA_M04_G2;22/07/2026;Red;Win;Sawo;Roamer;Chou;Uranus;Flicker;Team Spirit;IGNITE Gaming;2 - 0;0;3;9;22:42;Flying Clouds;Group A
+MSC26_GA_M04_G2;22/07/2026;Blue;Lose;Diablo;Explane;Alice;Phoveus;Flicker;IGNITE Gaming;Team Spirit;0 - 2;3;4;6;22:42;Flying Clouds;Group A
+MSC26_GA_M04_G2;22/07/2026;Blue;Lose;Kelvin;Jungler;Ling;Fanny;Retribution;IGNITE Gaming;Team Spirit;0 - 2;4;3;6;22:42;Flying Clouds;Group A
+MSC26_GA_M04_G2;22/07/2026;Blue;Lose;Roy;Midlane;Lylia;Marcel;Purify;IGNITE Gaming;Team Spirit;0 - 2;0;4;10;22:42;Flying Clouds;Group A
+MSC26_GA_M04_G2;22/07/2026;Blue;Lose;CS;Goldlane;Brody;Minotaur;Flicker;IGNITE Gaming;Team Spirit;0 - 2;5;4;2;22:42;Flying Clouds;Group A
+MSC26_GA_M04_G2;22/07/2026;Blue;Lose;Jayy;Roamer;Gloo;Arlott;Flicker;IGNITE Gaming;Team Spirit;0 - 2;0;5;10;22:42;Flying Clouds;Group A
+MSC26_GA_M05_G1;24/07/2026;Red;Lose;Rehansyah;Explane;Belerick;Hirara;Flicker;True Rippers;Guangzhou Gaming;0 - 1;1;5;3;12:22;Flying Clouds;Group A
+MSC26_GA_M05_G1;24/07/2026;Red;Lose;IYanZz;Jungler;Ling;Freya;Retribution;True Rippers;Guangzhou Gaming;0 - 1;5;4;1;12:22;Flying Clouds;Group A
+MSC26_GA_M05_G1;24/07/2026;Red;Lose;Asuna;Midlane;Valentina;Claude;Purify;True Rippers;Guangzhou Gaming;0 - 1;1;2;4;12:22;Flying Clouds;Group A
+MSC26_GA_M05_G1;24/07/2026;Red;Lose;Garcia;Goldlane;Paquito;Guinevere;Flicker;True Rippers;Guangzhou Gaming;0 - 1;0;3;2;12:22;Flying Clouds;Group A
+MSC26_GA_M05_G1;24/07/2026;Red;Lose;Kimyy;Roamer;Badang;Esmeralda;Flicker;True Rippers;Guangzhou Gaming;0 - 1;0;5;4;12:22;Flying Clouds;Group A
+MSC26_GA_M05_G1;24/07/2026;Blue;Win;Modi;Explane;Yu Zhong;Yi Sunshin;Petrify;Guangzhou Gaming;True Rippers;1 - 0;7;2;4;12:22;Flying Clouds;Group A
+MSC26_GA_M05_G1;24/07/2026;Blue;Win;ReCall;Jungler;Saber;Phoveus;Retribution;Guangzhou Gaming;True Rippers;1 - 0;5;2;10;12:22;Flying Clouds;Group A
+MSC26_GA_M05_G1;24/07/2026;Blue;Win;Xying;Midlane;Eudora;Marcel;Flicker;Guangzhou Gaming;True Rippers;1 - 0;4;1;9;12:22;Flying Clouds;Group A
+MSC26_GA_M05_G1;24/07/2026;Blue;Win;Cy;Goldlane;Moskov;Alice;Purify;Guangzhou Gaming;True Rippers;1 - 0;2;0;11;12:22;Flying Clouds;Group A
+MSC26_GA_M05_G1;24/07/2026;Blue;Win;Meii;Roamer;Atlas;Uranus;Flicker;Guangzhou Gaming;True Rippers;1 - 0;1;1;11;12:22;Flying Clouds;Group A
+MSC26_GA_M05_G2;24/07/2026;Red;Lose;Rehansyah;Explane;Uranus;Hirara;Purify;True Rippers;Guangzhou Gaming;0 - 2;2;1;10;17:04;Broken Walls;Group A
+MSC26_GA_M05_G2;24/07/2026;Red;Lose;IYanZz;Jungler;Harley;Freya;Retribution;True Rippers;Guangzhou Gaming;0 - 2;8;4;6;17:04;Broken Walls;Group A
+MSC26_GA_M05_G2;24/07/2026;Red;Lose;Asuna;Midlane;Valentina;Eudora;Flicker;True Rippers;Guangzhou Gaming;0 - 2;4;3;8;17:04;Broken Walls;Group A
+MSC26_GA_M05_G2;24/07/2026;Red;Lose;Garcia;Goldlane;Moskov;Saber;Flicker;True Rippers;Guangzhou Gaming;0 - 2;3;2;4;17:04;Broken Walls;Group A
+MSC26_GA_M05_G2;24/07/2026;Red;Lose;Kimyy;Roamer;Guinevere;Paquito;Flicker;True Rippers;Guangzhou Gaming;0 - 2;0;4;8;17:04;Broken Walls;Group A
+MSC26_GA_M05_G2;24/07/2026;Blue;Win;Modi;Explane;Yu Zhong;Yi Sunshin;Petrify;Guangzhou Gaming;True Rippers;2 - 0;3;5;6;17:04;Broken Walls;Group A
+MSC26_GA_M05_G2;24/07/2026;Blue;Win;ReCall;Jungler;Nolan;Ling;Retribution;Guangzhou Gaming;True Rippers;2 - 0;3;2;6;17:04;Broken Walls;Group A
+MSC26_GA_M05_G2;24/07/2026;Blue;Win;Xying;Midlane;Zhuxin;Marcel;Purify;Guangzhou Gaming;True Rippers;2 - 0;2;4;6;17:04;Broken Walls;Group A
+MSC26_GA_M05_G2;24/07/2026;Blue;Win;Cy;Goldlane;Claude;Belerick;Purify;Guangzhou Gaming;True Rippers;2 - 0;5;2;9;17:04;Broken Walls;Group A
+MSC26_GA_M05_G2;24/07/2026;Blue;Win;Meii;Roamer;Atlas;Alice;Flicker;Guangzhou Gaming;True Rippers;2 - 0;1;4;7;17:04;Broken Walls;Group A
+MSC26_GA_M06_G1;24/07/2026;Blue;Win;Sepat;Explane;Freya;Marcel;Vengeance;Team Vamos;Team Spirit;1 - 0;1;3;6;13:39;Flying Clouds;Group A
+MSC26_GA_M06_G1;24/07/2026;Blue;Win;Error404;Jungler;Hirara;Paquito;Retribution;Team Vamos;Team Spirit;1 - 0;1;2;8;13:39;Flying Clouds;Group A
+MSC26_GA_M06_G1;24/07/2026;Blue;Win;ClawKun;Midlane;Zhuxin;Esmeralda;Flicker;Team Vamos;Team Spirit;1 - 0;4;1;8;13:39;Flying Clouds;Group A
+MSC26_GA_M06_G1;24/07/2026;Blue;Win;Natco;Goldlane;Melissa;Moskov;Flicker;Team Vamos;Team Spirit;1 - 0;3;0;6;13:39;Flying Clouds;Group A
+MSC26_GA_M06_G1;24/07/2026;Blue;Win;Zqeef;Roamer;Hylos;Belerick;Revitalize;Team Vamos;Team Spirit;1 - 0;3;1;8;13:39;Flying Clouds;Group A
+MSC26_GA_M06_G1;24/07/2026;Red;Lose;Kid Bomba;Explane;Phoveus;Atlas;Flicker;Team Spirit;Team Vamos;0 - 1;2;7;2;13:39;Flying Clouds;Group A
+MSC26_GA_M06_G1;24/07/2026;Red;Lose;zaur egoist;Jungler;Ling;Fanny;Retribution;Team Spirit;Team Vamos;0 - 1;2;1;3;13:39;Flying Clouds;Group A
+MSC26_GA_M06_G1;24/07/2026;Red;Lose;Sunset Lover;Midlane;Valentina;Eudora;Flicker;Team Spirit;Team Vamos;0 - 1;1;1;5;13:39;Flying Clouds;Group A
+MSC26_GA_M06_G1;24/07/2026;Red;Lose;Hiko;Goldlane;Claude;Barats;Purify;Team Spirit;Team Vamos;0 - 1;2;1;2;13:39;Flying Clouds;Group A
+MSC26_GA_M06_G1;24/07/2026;Red;Lose;Sawo;Roamer;Minotaur;Uranus;Flicker;Team Spirit;Team Vamos;0 - 1;0;2;4;13:39;Flying Clouds;Group A
+MSC26_GA_M06_G2;24/07/2026;Red;Win;Sepat;Explane;Esmeralda;Freya;Purify;Team Vamos;Team Spirit;2 - 0;2;2;12;19:23;Expanding Rivers;Group A
+MSC26_GA_M06_G2;24/07/2026;Red;Win;Error404;Jungler;Hirara;Paquito;Retribution;Team Vamos;Team Spirit;2 - 0;11;2;5;19:23;Expanding Rivers;Group A
+MSC26_GA_M06_G2;24/07/2026;Red;Win;ClawKun;Midlane;Valentina;Fanny;Flicker;Team Vamos;Team Spirit;2 - 0;4;2;12;19:23;Expanding Rivers;Group A
+MSC26_GA_M06_G2;24/07/2026;Red;Win;Natco;Goldlane;Moskov;Harith;Purify;Team Vamos;Team Spirit;2 - 0;4;3;9;19:23;Expanding Rivers;Group A
+MSC26_GA_M06_G2;24/07/2026;Red;Win;Zqeef;Roamer;Belerick;Ruby;Flicker;Team Vamos;Team Spirit;2 - 0;0;4;15;19:23;Expanding Rivers;Group A
+MSC26_GA_M06_G2;24/07/2026;Blue;Lose;Kid Bomba;Explane;Uranus;Marcel;Purify;Team Spirit;Team Vamos;0 - 2;2;5;4;19:23;Expanding Rivers;Group A
+MSC26_GA_M06_G2;24/07/2026;Blue;Lose;zaur egoist;Jungler;Ling;Phoveus;Retribution;Team Spirit;Team Vamos;0 - 2;6;5;5;19:23;Expanding Rivers;Group A
+MSC26_GA_M06_G2;24/07/2026;Blue;Lose;Sunset Lover;Midlane;Zhuxin;Eudora;Purify;Team Spirit;Team Vamos;0 - 2;2;4;7;19:23;Expanding Rivers;Group A
+MSC26_GA_M06_G2;24/07/2026;Blue;Lose;Hiko;Goldlane;Claude;Melissa;Purify;Team Spirit;Team Vamos;0 - 2;1;2;9;19:23;Expanding Rivers;Group A
+MSC26_GA_M06_G2;24/07/2026;Blue;Lose;Sawo;Roamer;Atlas;Barats;Flicker;Team Spirit;Team Vamos;0 - 2;2;5;8;19:23;Expanding Rivers;Group A
+MSC26_GA_M07_G1;24/07/2026;Blue;Win;Shogun;Explane;Uranus;Eudora;Flicker;Team Vitality;Team Falcons PH;1 - 0;1;4;3;19:17;Flying Clouds;Group A
+MSC26_GA_M07_G1;24/07/2026;Blue;Win;Nnael;Jungler;Hirara;Zhuxin;Retribution;Team Vitality;Team Falcons PH;1 - 0;7;4;3;19:17;Flying Clouds;Group A
+MSC26_GA_M07_G1;24/07/2026;Blue;Win;Moreno;Midlane;Selena;Ling;Flicker;Team Vitality;Team Falcons PH;1 - 0;3;2;6;19:17;Flying Clouds;Group A
+MSC26_GA_M07_G1;24/07/2026;Blue;Win;Emann;Goldlane;Melissa;Esmeralda;Flicker;Team Vitality;Team Falcons PH;1 - 0;1;0;10;19:17;Flying Clouds;Group A
+MSC26_GA_M07_G1;24/07/2026;Blue;Win;Finn;Roamer;Badang;Harith;Flicker;Team Vitality;Team Falcons PH;1 - 0;2;3;10;19:17;Flying Clouds;Group A
+MSC26_GA_M07_G1;24/07/2026;Red;Lose;Flap;Explane;Dyrroth;Freya;Flicker;Team Falcons PH;Team Vitality;0 - 1;3;3;5;19:17;Flying Clouds;Group A
+MSC26_GA_M07_G1;24/07/2026;Red;Lose;Kyle;Jungler;Fanny;Marcel;Retribution;Team Falcons PH;Team Vitality;0 - 1;3;3;3;19:17;Flying Clouds;Group A
+MSC26_GA_M07_G1;24/07/2026;Red;Lose;Hadji;Midlane;Valentina;Atlas;Flicker;Team Falcons PH;Team Vitality;0 - 1;4;2;5;19:17;Flying Clouds;Group A
+MSC26_GA_M07_G1;24/07/2026;Red;Lose;Super Marco;Goldlane;Claude;Chou;Purify;Team Falcons PH;Team Vitality;0 - 1;2;3;6;19:17;Flying Clouds;Group A
+MSC26_GA_M07_G1;24/07/2026;Red;Lose;Owgwen;Roamer;Belerick;Brody;Flicker;Team Falcons PH;Team Vitality;0 - 1;1;3;7;19:17;Flying Clouds;Group A
+MSC26_GA_M07_G2;24/07/2026;Red;Win;Shogun;Explane;Esmeralda;Atlas;Purify;Team Vitality;Team Falcons PH;2 - 0;1;3;12;18:21;Broken Walls;Group A
+MSC26_GA_M07_G2;24/07/2026;Red;Win;Nnael;Jungler;Ling;Marcel;Retribution;Team Vitality;Team Falcons PH;2 - 0;4;4;6;18:21;Broken Walls;Group A
+MSC26_GA_M07_G2;24/07/2026;Red;Win;Moreno;Midlane;Vexana;Freya;Flicker;Team Vitality;Team Falcons PH;2 - 0;8;0;9;18:21;Broken Walls;Group A
+MSC26_GA_M07_G2;24/07/2026;Red;Win;Emann;Goldlane;Melissa;Minotaur;Purify;Team Vitality;Team Falcons PH;2 - 0;4;1;11;18:21;Broken Walls;Group A
+MSC26_GA_M07_G2;24/07/2026;Red;Win;Finn;Roamer;Belerick;Harith;Flicker;Team Vitality;Team Falcons PH;2 - 0;2;3;12;18:21;Broken Walls;Group A
+MSC26_GA_M07_G2;24/07/2026;Blue;Lose;Flap;Explane;Barats;Phoveus;Flicker;Team Falcons PH;Team Vitality;0 - 2;1;6;6;18:21;Broken Walls;Group A
+MSC26_GA_M07_G2;24/07/2026;Blue;Lose;Kyle;Jungler;Fanny;Valentina;Retribution;Team Falcons PH;Team Vitality;0 - 2;5;3;2;18:21;Broken Walls;Group A
+MSC26_GA_M07_G2;24/07/2026;Blue;Lose;Hadji;Midlane;Eudora;Selena;Flicker;Team Falcons PH;Team Vitality;0 - 2;2;4;7;18:21;Broken Walls;Group A
+MSC26_GA_M07_G2;24/07/2026;Blue;Lose;Super Marco;Goldlane;Brody;Badang;Flicker;Team Falcons PH;Team Vitality;0 - 2;3;2;4;18:21;Broken Walls;Group A
+MSC26_GA_M07_G2;24/07/2026;Blue;Lose;Owgwen;Roamer;Akai;Sora;Flicker;Team Falcons PH;Team Vitality;0 - 2;0;4;4;18:21;Broken Walls;Group A
+MSC26_GA_M08_G1;24/07/2026;Blue;Win;Sanji(FL);Explane;Uranus;Ling;Purify;Team Falcons;IGNITE Gaming;1 - 0;0;1;5;14:29;Expanding Rivers;Group A
+MSC26_GA_M08_G1;24/07/2026;Blue;Win;Boyet;Jungler;Akai;Hirara;Retribution;Team Falcons;IGNITE Gaming;1 - 0;3;1;8;14:29;Expanding Rivers;Group A
+MSC26_GA_M08_G1;24/07/2026;Blue;Win;Cuffin;Midlane;Gord;Valentina;Flicker;Team Falcons;IGNITE Gaming;1 - 0;4;0;10;14:29;Expanding Rivers;Group A
+MSC26_GA_M08_G1;24/07/2026;Blue;Win;Saano;Goldlane;Clint;Belerick;Flicker;Team Falcons;IGNITE Gaming;1 - 0;7;1;3;14:29;Expanding Rivers;Group A
+MSC26_GA_M08_G1;24/07/2026;Blue;Win;Trolll;Roamer;Marcel;Yu Zhong;Flicker;Team Falcons;IGNITE Gaming;1 - 0;0;0;14;14:29;Expanding Rivers;Group A
+MSC26_GA_M08_G1;24/07/2026;Red;Lose;Diablo;Explane;Barats;Freya;Flicker;IGNITE Gaming;Team Falcons;0 - 1;1;2;1;14:29;Expanding Rivers;Group A
+MSC26_GA_M08_G1;24/07/2026;Red;Lose;Kelvin;Jungler;Yi Sunshin;Eudora;Retribution;IGNITE Gaming;Team Falcons;0 - 1;1;2;2;14:29;Expanding Rivers;Group A
+MSC26_GA_M08_G1;24/07/2026;Red;Lose;Roy;Midlane;Zhuxin;Atlas;Flicker;IGNITE Gaming;Team Falcons;0 - 1;1;1;2;14:29;Expanding Rivers;Group A
+MSC26_GA_M08_G1;24/07/2026;Red;Lose;CS;Goldlane;Paquito;Arlott;Flicker;IGNITE Gaming;Team Falcons;0 - 1;0;5;0;14:29;Expanding Rivers;Group A
+MSC26_GA_M08_G1;24/07/2026;Red;Lose;Jayy;Roamer;Minotaur;Melissa;Flicker;IGNITE Gaming;Team Falcons;0 - 1;0;4;3;14:29;Expanding Rivers;Group A
+MSC26_GA_M08_G2;24/07/2026;Red;Lose;Sanji(FL);Explane;Paquito;Ling;Flicker;Team Falcons;IGNITE Gaming;1 - 1;3;5;4;19:30;Dangerous Grass;Group A
+MSC26_GA_M08_G2;24/07/2026;Red;Lose;Boyet;Jungler;Barats;Freya;Retribution;Team Falcons;IGNITE Gaming;1 - 1;3;3;8;19:30;Dangerous Grass;Group A
+MSC26_GA_M08_G2;24/07/2026;Red;Lose;Cuffin;Midlane;Valentina;Belerick;Flicker;Team Falcons;IGNITE Gaming;1 - 1;2;2;11;19:30;Dangerous Grass;Group A
+MSC26_GA_M08_G2;24/07/2026;Red;Lose;Saano;Goldlane;Clint;Yu Zhong;Flicker;Team Falcons;IGNITE Gaming;1 - 1;6;2;3;19:30;Dangerous Grass;Group A
+MSC26_GA_M08_G2;24/07/2026;Red;Lose;Trolll;Roamer;Atlas;Hylos;Flicker;Team Falcons;IGNITE Gaming;1 - 1;1;3;11;19:30;Dangerous Grass;Group A
+MSC26_GA_M08_G2;24/07/2026;Blue;Win;Diablo;Explane;Alice;Akai;Flicker;IGNITE Gaming;Team Falcons;1 - 1;2;3;10;19:30;Dangerous Grass;Group A
+MSC26_GA_M08_G2;24/07/2026;Blue;Win;Kelvin;Jungler;Hirara;Marcel;Retribution;IGNITE Gaming;Team Falcons;1 - 1;3;4;5;19:30;Dangerous Grass;Group A
+MSC26_GA_M08_G2;24/07/2026;Blue;Win;Roy;Midlane;Zhuxin;Eudora;Purify;IGNITE Gaming;Team Falcons;1 - 1;4;1;10;19:30;Dangerous Grass;Group A
+MSC26_GA_M08_G2;24/07/2026;Blue;Win;CS;Goldlane;Melissa;Uranus;Purify;IGNITE Gaming;Team Falcons;1 - 1;4;1;5;19:30;Dangerous Grass;Group A
+MSC26_GA_M08_G2;24/07/2026;Blue;Win;Jayy;Roamer;Gatot Kaca;Harley;Revitalize;IGNITE Gaming;Team Falcons;1 - 1;2;6;7;19:30;Dangerous Grass;Group A
+MSC26_GA_M08_G3;24/07/2026;Blue;Win;Sanji(FL);Explane;Uranus;Ling;Flicker;Team Falcons;IGNITE Gaming;2 - 1;3;0;8;13:57;Dangerous Grass;Group A
+MSC26_GA_M08_G3;24/07/2026;Blue;Win;Boyet;Jungler;Harley;Hirara;Retribution;Team Falcons;IGNITE Gaming;2 - 1;1;1;10;13:57;Dangerous Grass;Group A
+MSC26_GA_M08_G3;24/07/2026;Blue;Win;Cuffin;Midlane;Eudora;Freya;Flicker;Team Falcons;IGNITE Gaming;2 - 1;3;2;7;13:57;Dangerous Grass;Group A
+MSC26_GA_M08_G3;24/07/2026;Blue;Win;Saano;Goldlane;Clint;Gatot Kaca;Flicker;Team Falcons;IGNITE Gaming;2 - 1;5;0;7;13:57;Dangerous Grass;Group A
+MSC26_GA_M08_G3;24/07/2026;Blue;Win;Trolll;Roamer;Atlas;Belerick;Flicker;Team Falcons;IGNITE Gaming;2 - 1;1;0;10;13:57;Dangerous Grass;Group A
+MSC26_GA_M08_G3;24/07/2026;Red;Lose;Diablo;Explane;Alice;Akai;Flicker;IGNITE Gaming;Team Falcons;1 - 2;0;3;2;13:57;Dangerous Grass;Group A
+MSC26_GA_M08_G3;24/07/2026;Red;Lose;Kelvin;Jungler;Lancelot;Marcel;Retribution;IGNITE Gaming;Team Falcons;1 - 2;0;1;1;13:57;Dangerous Grass;Group A
+MSC26_GA_M08_G3;24/07/2026;Red;Lose;Roy;Midlane;Valentina;Barats;Flicker;IGNITE Gaming;Team Falcons;1 - 2;0;3;2;13:57;Dangerous Grass;Group A
+MSC26_GA_M08_G3;24/07/2026;Red;Lose;CS;Goldlane;Melissa;Guinevere;Purify;IGNITE Gaming;Team Falcons;1 - 2;2;2;0;13:57;Dangerous Grass;Group A
+MSC26_GA_M08_G3;24/07/2026;Red;Lose;Jayy;Roamer;Grock;Arlott;Flicker;IGNITE Gaming;Team Falcons;1 - 2;1;4;1;13:57;Dangerous Grass;Group A
+MSC26_GA_M09_G1;26/07/2026;Blue;Lose;Kid Bomba;Explane;Esmeralda;Phoveus;Flicker;Team Spirit;Guangzhou Gaming;0 - 1;1;2;3;21:42;Broken Walls;Group A
+MSC26_GA_M09_G1;26/07/2026;Blue;Lose;zaur egoist;Jungler;Hirara;Marcel;Retribution;Team Spirit;Guangzhou Gaming;0 - 1;3;2;8;21:42;Broken Walls;Group A
+MSC26_GA_M09_G1;26/07/2026;Blue;Lose;Sunset Lover;Midlane;Eudora;Melissa;Flicker;Team Spirit;Guangzhou Gaming;0 - 1;2;0;10;21:42;Broken Walls;Group A
+MSC26_GA_M09_G1;26/07/2026;Blue;Lose;Hiko;Goldlane;Brody;Baxia;Flicker;Team Spirit;Guangzhou Gaming;0 - 1;7;2;1;21:42;Broken Walls;Group A
+MSC26_GA_M09_G1;26/07/2026;Blue;Lose;Sawo;Roamer;Belerick;Chou;Revitalize;Team Spirit;Guangzhou Gaming;0 - 1;0;5;12;21:42;Broken Walls;Group A
+MSC26_GA_M09_G1;26/07/2026;Red;Win;Modi;Explane;Alice;Freya;Flicker;Guangzhou Gaming;Team Spirit;1 - 0;1;2;7;21:42;Broken Walls;Group A
+MSC26_GA_M09_G1;26/07/2026;Red;Win;ReCall;Jungler;Paquito;Atlas;Retribution;Guangzhou Gaming;Team Spirit;1 - 0;1;3;9;21:42;Broken Walls;Group A
+MSC26_GA_M09_G1;26/07/2026;Red;Win;Xying;Midlane;Valentina;Fanny;Flicker;Guangzhou Gaming;Team Spirit;1 - 0;0;4;8;21:42;Broken Walls;Group A
+MSC26_GA_M09_G1;26/07/2026;Red;Win;Cy;Goldlane;Karrie;Clint;Purify;Guangzhou Gaming;Team Spirit;1 - 0;9;1;1;21:42;Broken Walls;Group A
+MSC26_GA_M09_G1;26/07/2026;Red;Win;Meii;Roamer;Grock;Yve;Flicker;Guangzhou Gaming;Team Spirit;1 - 0;0;3;6;21:42;Broken Walls;Group A
+MSC26_GA_M09_G2;26/07/2026;Blue;Win;Kid Bomba;Explane;Barats;Phoveus;Flicker;Team Spirit;Guangzhou Gaming;1 - 1;2;0;2;10:24;Dangerous Grass;Group A
+MSC26_GA_M09_G2;26/07/2026;Blue;Win;zaur egoist;Jungler;Harley;Marcel;Retribution;Team Spirit;Guangzhou Gaming;1 - 1;2;0;3;10:24;Dangerous Grass;Group A
+MSC26_GA_M09_G2;26/07/2026;Blue;Win;Sunset Lover;Midlane;Eudora;Melissa;Flicker;Team Spirit;Guangzhou Gaming;1 - 1;2;0;4;10:24;Dangerous Grass;Group A
+MSC26_GA_M09_G2;26/07/2026;Blue;Win;Hiko;Goldlane;Paquito;Hilda;Flicker;Team Spirit;Guangzhou Gaming;1 - 1;1;0;0;10:24;Dangerous Grass;Group A
+MSC26_GA_M09_G2;26/07/2026;Blue;Win;Sawo;Roamer;Chou;Esmeralda;Flicker;Team Spirit;Guangzhou Gaming;1 - 1;0;1;3;10:24;Dangerous Grass;Group A
+MSC26_GA_M09_G2;26/07/2026;Red;Lose;Modi;Explane;Belerick;Freya;Flicker;Guangzhou Gaming;Team Spirit;1 - 1;0;0;1;10:24;Dangerous Grass;Group A
+MSC26_GA_M09_G2;26/07/2026;Red;Lose;ReCall;Jungler;Hirara;Atlas;Retribution;Guangzhou Gaming;Team Spirit;1 - 1;0;1;1;10:24;Dangerous Grass;Group A
+MSC26_GA_M09_G2;26/07/2026;Red;Lose;Xying;Midlane;Valentina;Fanny;Purify;Guangzhou Gaming;Team Spirit;1 - 1;0;1;1;10:24;Dangerous Grass;Group A
+MSC26_GA_M09_G2;26/07/2026;Red;Lose;Cy;Goldlane;Moskov;Clint;Purify;Guangzhou Gaming;Team Spirit;1 - 1;0;1;1;10:24;Dangerous Grass;Group A
+MSC26_GA_M09_G2;26/07/2026;Red;Lose;Meii;Roamer;Kaja;Uranus;Flicker;Guangzhou Gaming;Team Spirit;1 - 1;1;4;0;10:24;Dangerous Grass;Group A
+MSC26_GA_M09_G3;26/07/2026;Red;Win;Kid Bomba;Explane;Barats;Atlas;Flicker;Team Spirit;Guangzhou Gaming;2 - 1;0;3;8;18:22;Expanding Rivers;Group A
+MSC26_GA_M09_G3;26/07/2026;Red;Win;zaur egoist;Jungler;Fanny;Freya;Retribution;Team Spirit;Guangzhou Gaming;2 - 1;6;0;3;18:22;Expanding Rivers;Group A
+MSC26_GA_M09_G3;26/07/2026;Red;Win;Sunset Lover;Midlane;Eudora;Phoveus;Flicker;Team Spirit;Guangzhou Gaming;2 - 1;1;1;9;18:22;Expanding Rivers;Group A
+MSC26_GA_M09_G3;26/07/2026;Red;Win;Hiko;Goldlane;Granger;Melissa;Flicker;Team Spirit;Guangzhou Gaming;2 - 1;5;0;2;18:22;Expanding Rivers;Group A
+MSC26_GA_M09_G3;26/07/2026;Red;Win;Sawo;Roamer;Marcel;Moskov;Revitalize;Team Spirit;Guangzhou Gaming;2 - 1;2;0;7;18:22;Expanding Rivers;Group A
+MSC26_GA_M09_G3;26/07/2026;Blue;Lose;Modi;Explane;Uranus;Chou;Purify;Guangzhou Gaming;Team Spirit;1 - 2;1;2;2;18:22;Expanding Rivers;Group A
+MSC26_GA_M09_G3;26/07/2026;Blue;Lose;ReCall;Jungler;Hirara;Paquito;Retribution;Guangzhou Gaming;Team Spirit;1 - 2;1;5;2;18:22;Expanding Rivers;Group A
+MSC26_GA_M09_G3;26/07/2026;Blue;Lose;Xying;Midlane;Lylia;Harley;Purify;Guangzhou Gaming;Team Spirit;1 - 2;0;3;3;18:22;Expanding Rivers;Group A
+MSC26_GA_M09_G3;26/07/2026;Blue;Lose;Cy;Goldlane;Brody;Clint;Flicker;Guangzhou Gaming;Team Spirit;1 - 2;2;1;2;18:22;Expanding Rivers;Group A
+MSC26_GA_M09_G3;26/07/2026;Blue;Lose;Meii;Roamer;Mathilda;Kaja;Revitalize;Guangzhou Gaming;Team Spirit;1 - 2;0;3;4;18:22;Expanding Rivers;Group A
+MSC26_GA_M10_G1;26/07/2026;Red;Win;Flap;Explane;Uranus;Marcel;Flicker;Team Falcons PH;Team Falcons;1 - 0;2;2;7;17:19;Broken Walls;Group A
+MSC26_GA_M10_G1;26/07/2026;Red;Win;Kyle;Jungler;Nolan;Freya;Retribution;Team Falcons PH;Team Falcons;1 - 0;3;1;5;17:19;Broken Walls;Group A
+MSC26_GA_M10_G1;26/07/2026;Red;Win;Hadji;Midlane;Selena;Atlas;Flicker;Team Falcons PH;Team Falcons;1 - 0;7;3;6;17:19;Broken Walls;Group A
+MSC26_GA_M10_G1;26/07/2026;Red;Win;Super Marco;Goldlane;Claude;Clint;Purify;Team Falcons PH;Team Falcons;1 - 0;2;0;6;17:19;Broken Walls;Group A
+MSC26_GA_M10_G1;26/07/2026;Red;Win;Owgwen;Roamer;Gatot Kaca;Valentina;Revitalize;Team Falcons PH;Team Falcons;1 - 0;0;1;13;17:19;Broken Walls;Group A
+MSC26_GA_M10_G1;26/07/2026;Blue;Lose;Sanji(FL);Explane;Alice;Fanny;Flicker;Team Falcons;Team Falcons PH;0 - 1;1;2;4;17:19;Broken Walls;Group A
+MSC26_GA_M10_G1;26/07/2026;Blue;Lose;Boyet;Jungler;Hirara;Ling;Retribution;Team Falcons;Team Falcons PH;0 - 1;4;4;1;17:19;Broken Walls;Group A
+MSC26_GA_M10_G1;26/07/2026;Blue;Lose;Cuffin;Midlane;Zhuxin;Belerick;Flicker;Team Falcons;Team Falcons PH;0 - 1;1;3;6;17:19;Broken Walls;Group A
+MSC26_GA_M10_G1;26/07/2026;Blue;Lose;Saano;Goldlane;Moskov;Harith;Flicker;Team Falcons;Team Falcons PH;0 - 1;1;2;3;17:19;Broken Walls;Group A
+MSC26_GA_M10_G1;26/07/2026;Blue;Lose;Trolll;Roamer;Chou;Minotaur;Flicker;Team Falcons;Team Falcons PH;0 - 1;0;3;7;17:19;Broken Walls;Group A
+MSC26_GA_M10_G2;26/07/2026;Red;Win;Flap;Explane;Esmeralda;Marcel;Flicker;Team Falcons PH;Team Falcons;2 - 0;4;0;8;15:23;Broken Walls;Group A
+MSC26_GA_M10_G2;26/07/2026;Red;Win;Kyle;Jungler;Hirara;Freya;Retribution;Team Falcons PH;Team Falcons;2 - 0;8;2;5;15:23;Broken Walls;Group A
+MSC26_GA_M10_G2;26/07/2026;Red;Win;Hadji;Midlane;Valentina;Atlas;Flicker;Team Falcons PH;Team Falcons;2 - 0;1;4;8;15:23;Broken Walls;Group A
+MSC26_GA_M10_G2;26/07/2026;Red;Win;Super Marco;Goldlane;Claude;Melissa;Purify;Team Falcons PH;Team Falcons;2 - 0;0;0;10;15:23;Broken Walls;Group A
+MSC26_GA_M10_G2;26/07/2026;Red;Win;Owgwen;Roamer;Gatot Kaca;Clint;Revitalize;Team Falcons PH;Team Falcons;2 - 0;4;3;9;15:23;Broken Walls;Group A
+MSC26_GA_M10_G2;26/07/2026;Blue;Lose;Sanji(FL);Explane;Uranus;Fanny;Flicker;Team Falcons;Team Falcons PH;0 - 2;1;5;4;15:23;Broken Walls;Group A
+MSC26_GA_M10_G2;26/07/2026;Blue;Lose;Boyet;Jungler;Akai;Ling;Retribution;Team Falcons;Team Falcons PH;0 - 2;0;4;7;15:23;Broken Walls;Group A
+MSC26_GA_M10_G2;26/07/2026;Blue;Lose;Cuffin;Midlane;Zhuxin;Selena;Flicker;Team Falcons;Team Falcons PH;0 - 2;5;2;4;15:23;Broken Walls;Group A
+MSC26_GA_M10_G2;26/07/2026;Blue;Lose;Saano;Goldlane;Moskov;Belerick;Flicker;Team Falcons;Team Falcons PH;0 - 2;1;3;1;15:23;Broken Walls;Group A
+MSC26_GA_M10_G2;26/07/2026;Blue;Lose;Trolll;Roamer;Chou;Minotaur;Flicker;Team Falcons;Team Falcons PH;0 - 2;2;3;4;15:23;Broken Walls;Group A
+MSC26_GB_M01_G1;23/07/2026;Blue;Win;Kramm;Explane;Uranus;Fanny;Flicker;Selangor Red Giants;PRO Esports;1 - 0;4;1;5;18:05;Expanding Rivers;Group B
+MSC26_GB_M01_G1;23/07/2026;Blue;Win;Sekys;Jungler;Hirara;Phoveus;Retribution;Selangor Red Giants;PRO Esports;1 - 0;2;4;5;18:05;Expanding Rivers;Group B
+MSC26_GB_M01_G1;23/07/2026;Blue;Win;Stormie;Midlane;Valentina;Marcel;Flicker;Selangor Red Giants;PRO Esports;1 - 0;3;4;13;18:05;Expanding Rivers;Group B
+MSC26_GB_M01_G1;23/07/2026;Blue;Win;Innocent;Goldlane;Moskov;Alice;Purify;Selangor Red Giants;PRO Esports;1 - 0;6;1;10;18:05;Expanding Rivers;Group B
+MSC26_GB_M01_G1;23/07/2026;Blue;Win;Yums;Roamer;Badang;Ruby;Flicker;Selangor Red Giants;PRO Esports;1 - 0;2;3;7;18:05;Expanding Rivers;Group B
+MSC26_GB_M01_G1;23/07/2026;Red;Lose;SryImFelix;Explane;Sora;Atlas;Flicker;PRO Esports;Selangor Red Giants;0 - 1;1;2;5;18:05;Expanding Rivers;Group B
+MSC26_GB_M01_G1;23/07/2026;Red;Lose;Koyly;Jungler;Ling;Zhuxin;Retribution;PRO Esports;Selangor Red Giants;0 - 1;6;3;5;18:05;Expanding Rivers;Group B
+MSC26_GB_M01_G1;23/07/2026;Red;Lose;SAA;Midlane;Eudora;Freya;Flicker;PRO Esports;Selangor Red Giants;0 - 1;3;5;7;18:05;Expanding Rivers;Group B
+MSC26_GB_M01_G1;23/07/2026;Red;Lose;Kouzen;Goldlane;Harith;Hilda;Purify;PRO Esports;Selangor Red Giants;0 - 1;1;2;2;18:05;Expanding Rivers;Group B
+MSC26_GB_M01_G1;23/07/2026;Red;Lose;PPPPP;Roamer;Belerick;Chou;Revitalize;PRO Esports;Selangor Red Giants;0 - 1;2;5;10;18:05;Expanding Rivers;Group B
+MSC26_GB_M01_G2;23/07/2026;Blue;Lose;Kramm;Explane;Freya;Marcel;Purify;Selangor Red Giants;PRO Esports;1 - 1;1;2;4;14:56;Dangerous Grass;Group B
+MSC26_GB_M01_G2;23/07/2026;Blue;Lose;Sekys;Jungler;Hirara;Yi Sunshin;Retribution;Selangor Red Giants;PRO Esports;1 - 1;2;4;3;14:56;Dangerous Grass;Group B
+MSC26_GB_M01_G2;23/07/2026;Blue;Lose;Stormie;Midlane;Pharsa;Fanny;Flicker;Selangor Red Giants;PRO Esports;1 - 1;3;2;3;14:56;Dangerous Grass;Group B
+MSC26_GB_M01_G2;23/07/2026;Blue;Lose;Innocent;Goldlane;Claude;Esmeralda;Purify;Selangor Red Giants;PRO Esports;1 - 1;2;2;3;14:56;Dangerous Grass;Group B
+MSC26_GB_M01_G2;23/07/2026;Blue;Lose;Yums;Roamer;Chou;Eudora;Flicker;Selangor Red Giants;PRO Esports;1 - 1;1;7;5;14:56;Dangerous Grass;Group B
+MSC26_GB_M01_G2;23/07/2026;Red;Win;SryImFelix;Explane;Ruby;Zhuxin;Flicker;PRO Esports;Selangor Red Giants;1 - 1;5;1;6;14:56;Dangerous Grass;Group B
+MSC26_GB_M01_G2;23/07/2026;Red;Win;Koyly;Jungler;Ling;Atlas;Retribution;PRO Esports;Selangor Red Giants;1 - 1;6;1;8;14:56;Dangerous Grass;Group B
+MSC26_GB_M01_G2;23/07/2026;Red;Win;SAA;Midlane;Vexana;Phoveus;Flicker;PRO Esports;Selangor Red Giants;1 - 1;1;3;6;14:56;Dangerous Grass;Group B
+MSC26_GB_M01_G2;23/07/2026;Red;Win;Kouzen;Goldlane;Harith;Uranus;Flicker;PRO Esports;Selangor Red Giants;1 - 1;5;2;6;14:56;Dangerous Grass;Group B
+MSC26_GB_M01_G2;23/07/2026;Red;Win;PPPPP;Roamer;Belerick;Valentina;Flicker;PRO Esports;Selangor Red Giants;1 - 1;0;2;12;14:56;Dangerous Grass;Group B
+MSC26_GB_M02_G1;23/07/2026;Blue;Lose;Kramm;Explane;Yu Zhong;Marcel;Petrify;Selangor Red Giants;PRO Esports;1 - 2;2;6;6;22:33;Flying Clouds;Group B
+MSC26_GB_M01_G3;23/07/2026;Blue;Lose;Sekys;Jungler;Ling;Yi Sunshin;Retribution;Selangor Red Giants;PRO Esports;1 - 2;7;5;3;22:33;Flying Clouds;Group B
+MSC26_GB_M01_G3;23/07/2026;Blue;Lose;Stormie;Midlane;Valentina;Fanny;Flicker;Selangor Red Giants;PRO Esports;1 - 2;3;5;8;22:33;Flying Clouds;Group B
+MSC26_GB_M01_G3;23/07/2026;Blue;Lose;Innocent;Goldlane;Clint;Moskov;Flicker;Selangor Red Giants;PRO Esports;1 - 2;2;2;6;22:33;Flying Clouds;Group B
+MSC26_GB_M01_G3;23/07/2026;Blue;Lose;Yums;Roamer;Badang;Brody;Flicker;Selangor Red Giants;PRO Esports;1 - 2;0;6;4;22:33;Flying Clouds;Group B
+MSC26_GB_M01_G3;23/07/2026;Red;Win;SryImFelix;Explane;Freya;Zhuxin;Vengeance;PRO Esports;Selangor Red Giants;2 - 1;3;2;11;22:33;Flying Clouds;Group B
+MSC26_GB_M01_G3;23/07/2026;Red;Win;Koyly;Jungler;Hirara;Atlas;Retribution;PRO Esports;Selangor Red Giants;2 - 1;11;4;7;22:33;Flying Clouds;Group B
+MSC26_GB_M01_G3;23/07/2026;Red;Win;SAA;Midlane;Eudora;Phoveus;Flicker;PRO Esports;Selangor Red Giants;2 - 1;1;6;13;22:33;Flying Clouds;Group B
+MSC26_GB_M01_G3;23/07/2026;Red;Win;Kouzen;Goldlane;Harith;Uranus;Purify;PRO Esports;Selangor Red Giants;2 - 1;9;1;8;22:33;Flying Clouds;Group B
+MSC26_GB_M01_G3;23/07/2026;Red;Win;PPPPP;Roamer;Belerick;Alice;Flicker;PRO Esports;Selangor Red Giants;2 - 1;0;1;19;22:33;Flying Clouds;Group B
+MSC26_GB_M02_G1;23/07/2026;Red;Lose;Sanford;Explane;Esmeralda;Fanny;Flicker;Team Liquid PH;Aurora Gaming;0 - 1;1;3;0;09:40;Flying Clouds;Group B
+MSC26_GB_M02_G1;23/07/2026;Red;Lose;KarlTzy;Jungler;Yi Sunshin;Ling;Retribution;Team Liquid PH;Aurora Gaming;0 - 1;0;4;0;09:40;Flying Clouds;Group B
+MSC26_GB_M02_G1;23/07/2026;Red;Lose;Sanji(PH);Midlane;Eudora;Phoveus;Flicker;Team Liquid PH;Aurora Gaming;0 - 1;0;5;0;09:40;Flying Clouds;Group B
+MSC26_GB_M02_G1;23/07/2026;Red;Lose;Teddy;Goldlane;Claude;Lylia;Purify;Team Liquid PH;Aurora Gaming;0 - 1;0;3;0;09:40;Flying Clouds;Group B
+MSC26_GB_M02_G1;23/07/2026;Red;Lose;Jaypee;Roamer;Gatot Kaca;Selena;Revitalize;Team Liquid PH;Aurora Gaming;0 - 1;0;4;0;09:40;Flying Clouds;Group B
+MSC26_GB_M02_G1;23/07/2026;Blue;Win;Lunar;Explane;Uranus;Marcel;Flicker;Aurora Gaming;Team Liquid PH;1 - 0;3;0;10;09:40;Flying Clouds;Group B
+MSC26_GB_M02_G1;23/07/2026;Blue;Win;Tienzy;Jungler;Hirara;Atlas;Retribution;Aurora Gaming;Team Liquid PH;1 - 0;13;1;3;09:40;Flying Clouds;Group B
+MSC26_GB_M02_G1;23/07/2026;Blue;Win;Rosa;Midlane;Rafaela;Zhuxin;Flicker;Aurora Gaming;Team Liquid PH;1 - 0;1;0;17;09:40;Flying Clouds;Group B
+MSC26_GB_M02_G1;23/07/2026;Blue;Win;Sigibum;Goldlane;Freya;Chou;Flicker;Aurora Gaming;Team Liquid PH;1 - 0;2;0;9;09:40;Flying Clouds;Group B
+MSC26_GB_M02_G1;23/07/2026;Blue;Win;Pagu;Roamer;Belerick;Karrie;Flicker;Aurora Gaming;Team Liquid PH;1 - 0;0;0;11;09:40;Flying Clouds;Group B
+MSC26_GB_M02_G2;23/07/2026;Blue;Lose;Sanford;Explane;Arlott;Fanny;Flicker;Team Liquid PH;Aurora Gaming;0 - 2;6;3;2;14:40;Flying Clouds;Group B
+MSC26_GB_M02_G2;23/07/2026;Blue;Lose;KarlTzy;Jungler;Ling;Hirara;Retribution;Team Liquid PH;Aurora Gaming;0 - 2;1;3;3;14:40;Flying Clouds;Group B
+MSC26_GB_M02_G2;23/07/2026;Blue;Lose;Sanji(PH);Midlane;Zetian;Phoveus;Flicker;Team Liquid PH;Aurora Gaming;0 - 2;1;3;7;14:40;Flying Clouds;Group B
+MSC26_GB_M02_G2;23/07/2026;Blue;Lose;Teddy;Goldlane;Claude;Uranus;Purify;Team Liquid PH;Aurora Gaming;0 - 2;0;3;5;14:40;Flying Clouds;Group B
+MSC26_GB_M02_G2;23/07/2026;Blue;Lose;Jaypee;Roamer;Belerick;Esmeralda;Revitalize;Team Liquid PH;Aurora Gaming;0 - 2;0;6;8;14:40;Flying Clouds;Group B
+MSC26_GB_M02_G2;23/07/2026;Red;Win;Lunar;Explane;Barats;Marcel;Flicker;Aurora Gaming;Team Liquid PH;2 - 0;0;3;9;14:40;Flying Clouds;Group B
+MSC26_GB_M02_G2;23/07/2026;Red;Win;Tienzy;Jungler;Harley;Freya;Retribution;Aurora Gaming;Team Liquid PH;2 - 0;3;2;9;14:40;Flying Clouds;Group B
+MSC26_GB_M02_G2;23/07/2026;Red;Win;Rosa;Midlane;Valentina;Eudora;Flicker;Aurora Gaming;Team Liquid PH;2 - 0;4;1;9;14:40;Flying Clouds;Group B
+MSC26_GB_M02_G2;23/07/2026;Red;Win;Sigibum;Goldlane;Paquito;Zhuxin;Flicker;Aurora Gaming;Team Liquid PH;2 - 0;9;0;6;14:40;Flying Clouds;Group B
+MSC26_GB_M02_G2;23/07/2026;Red;Win;Pagu;Roamer;Atlas;Gord;Flicker;Aurora Gaming;Team Liquid PH;2 - 0;2;2;13;14:40;Flying Clouds;Group B
+MSC26_GB_M03_G1;23/07/2026;Blue;Win;Lutpiii;Explane;Barats;Esmeralda;Flicker;ONIC;Entity7;1 - 0;0;3;10;11:23;Expanding Rivers;Group B
+MSC26_GB_M03_G1;23/07/2026;Blue;Win;Kairi;Jungler;Hirara;Valentina;Retribution;ONIC;Entity7;1 - 0;7;0;10;11:23;Expanding Rivers;Group B
+MSC26_GB_M03_G1;23/07/2026;Blue;Win;Sanz;Midlane;Eudora;Atlas;Flicker;ONIC;Entity7;1 - 0;5;1;15;11:23;Expanding Rivers;Group B
+MSC26_GB_M03_G1;23/07/2026;Blue;Win;Kelra;Goldlane;Granger;Yi Sunshin;Flicker;ONIC;Entity7;1 - 0;9;1;4;11:23;Expanding Rivers;Group B
+MSC26_GB_M03_G1;23/07/2026;Blue;Win;Kiboy;Roamer;Marcel;Ling;Flicker;ONIC;Entity7;1 - 0;1;1;17;11:23;Expanding Rivers;Group B
+MSC26_GB_M03_G1;23/07/2026;Red;Lose;Akashi;Explane;Phoveus;Fanny;Flicker;Entity7;ONIC;0 - 1;0;6;1;11:23;Expanding Rivers;Group B
+MSC26_GB_M03_G1;23/07/2026;Red;Lose;HideOnBush;Jungler;Suyou;Ling;Retribution;Entity7;ONIC;0 - 1;4;5;1;11:23;Expanding Rivers;Group B
+MSC26_GB_M03_G1;23/07/2026;Red;Lose;Shin;Midlane;Yve;Claude;Flicker;Entity7;ONIC;0 - 1;0;4;3;11:23;Expanding Rivers;Group B
+MSC26_GB_M03_G1;23/07/2026;Red;Lose;Doom;Goldlane;Harith;Alice;Purify;Entity7;ONIC;0 - 1;0;1;4;11:23;Expanding Rivers;Group B
+MSC26_GB_M03_G1;23/07/2026;Red;Lose;Vaguin;Roamer;Chip;Uranus;Purify;Entity7;ONIC;0 - 1;2;6;4;11:23;Expanding Rivers;Group B
+MSC26_GB_M03_G2;23/07/2026;Red;Win;Lutpiii;Explane;Uranus;Freya;Flicker;ONIC;Entity7;2 - 0;2;1;3;11:31;Broken Walls;Group B
+MSC26_GB_M03_G2;23/07/2026;Red;Win;Kairi;Jungler;Hirara;Marcel;Retribution;ONIC;Entity7;2 - 0;5;0;8;11:31;Broken Walls;Group B
+MSC26_GB_M03_G2;23/07/2026;Red;Win;Sanz;Midlane;Lylia;Atlas;Flicker;ONIC;Entity7;2 - 0;0;1;10;11:31;Broken Walls;Group B
+MSC26_GB_M03_G2;23/07/2026;Red;Win;Kelra;Goldlane;Brody;Dyrroth;Flicker;ONIC;Entity7;2 - 0;4;0;3;11:31;Broken Walls;Group B
+MSC26_GB_M03_G2;23/07/2026;Red;Win;Kiboy;Roamer;Chou;Sora;Flicker;ONIC;Entity7;2 - 0;4;0;8;11:31;Broken Walls;Group B
+MSC26_GB_M03_G2;23/07/2026;Blue;Lose;Akashi;Explane;Paquito;Fanny;Flicker;Entity7;ONIC;0 - 2;0;4;1;11:31;Broken Walls;Group B
+MSC26_GB_M03_G2;23/07/2026;Blue;Lose;HideOnBush;Jungler;Harley;Valentina;Retribution;Entity7;ONIC;0 - 2;0;1;1;11:31;Broken Walls;Group B
+MSC26_GB_M03_G2;23/07/2026;Blue;Lose;Shin;Midlane;Eudora;Belerick;Flicker;Entity7;ONIC;0 - 2;2;3;0;11:31;Broken Walls;Group B
+MSC26_GB_M03_G2;23/07/2026;Blue;Lose;Doom;Goldlane;Claude;Yve;Purify;Entity7;ONIC;0 - 2;0;2;1;11:31;Broken Walls;Group B
+MSC26_GB_M03_G2;23/07/2026;Blue;Lose;Vaguin;Roamer;Gatot Kaca;Zhuxin;Revitalize;Entity7;ONIC;0 - 2;0;5;1;11:31;Broken Walls;Group B
+MSC26_GB_M04_G1;23/07/2026;Blue;Win;Ying;Explane;Barats;Phoveus;Flicker;Yangon Galacticos;Geekay Esports;1 - 0;1;0;14;09:59;Dangerous Grass;Group B
+MSC26_GB_M04_G1;23/07/2026;Blue;Win;Hannn;Jungler;Fanny;Valentina;Retribution;Yangon Galacticos;Geekay Esports;1 - 0;7;2;5;09:59;Dangerous Grass;Group B
+MSC26_GB_M04_G1;23/07/2026;Blue;Win;Kaize;Midlane;Gord;Esmeralda;Flicker;Yangon Galacticos;Geekay Esports;1 - 0;10;0;6;09:59;Dangerous Grass;Group B
+MSC26_GB_M04_G1;23/07/2026;Blue;Win;Sanji(MM);Goldlane;Claude;Alice;Purify;Yangon Galacticos;Geekay Esports;1 - 0;3;0;13;09:59;Dangerous Grass;Group B
+MSC26_GB_M04_G1;23/07/2026;Blue;Win;Blink;Roamer;Atlas;Chou;Flicker;Yangon Galacticos;Geekay Esports;1 - 0;0;0;17;09:59;Dangerous Grass;Group B
+MSC26_GB_M04_G1;23/07/2026;Red;Lose;Aizn;Explane;Belerick;Arlott;Flicker;Geekay Esports;Yangon Galacticos;0 - 1;0;5;0;09:59;Dangerous Grass;Group B
+MSC26_GB_M04_G1;23/07/2026;Red;Lose;Xeno;Jungler;Hirara;Marcel;Retribution;Geekay Esports;Yangon Galacticos;0 - 1;1;2;1;09:59;Dangerous Grass;Group B
+MSC26_GB_M04_G1;23/07/2026;Red;Lose;Quanok;Midlane;Eudora;Freya;Flicker;Geekay Esports;Yangon Galacticos;0 - 1;1;4;1;09:59;Dangerous Grass;Group B
+MSC26_GB_M04_G1;23/07/2026;Red;Lose;Yaga;Goldlane;Moskov;Uranus;Purify;Geekay Esports;Yangon Galacticos;0 - 1;0;5;0;09:59;Dangerous Grass;Group B
+MSC26_GB_M04_G1;23/07/2026;Red;Lose;Shen;Roamer;Hylos;Paquito;Revitalize;Geekay Esports;Yangon Galacticos;0 - 1;0;5;2;09:59;Dangerous Grass;Group B
+MSC26_GB_M04_G2;23/07/2026;Red;Win;Ying;Explane;Ruby;Marcel;Flicker;Yangon Galacticos;Geekay Esports;2 - 0;3;0;22;15:07;Broken Walls;Group B
+MSC26_GB_M04_G2;23/07/2026;Red;Win;Hannn;Jungler;Ling;Freya;Retribution;Yangon Galacticos;Geekay Esports;2 - 0;12;1;15;15:07;Broken Walls;Group B
+MSC26_GB_M04_G2;23/07/2026;Red;Win;Kaize;Midlane;Eudora;Belerick;Flicker;Yangon Galacticos;Geekay Esports;2 - 0;9;0;17;15:07;Broken Walls;Group B
+MSC26_GB_M04_G2;23/07/2026;Red;Win;Sanji(MM);Goldlane;Clint;Zhuxin;Flicker;Yangon Galacticos;Geekay Esports;2 - 0;6;1;9;15:07;Broken Walls;Group B
+MSC26_GB_M04_G2;23/07/2026;Red;Win;Blink;Roamer;Chou;Valentina;Flicker;Yangon Galacticos;Geekay Esports;2 - 0;0;2;13;15:07;Broken Walls;Group B
+MSC26_GB_M04_G2;23/07/2026;Blue;Lose;Aizn;Explane;Esmeralda;Arlott;Purify;Geekay Esports;Yangon Galacticos;0 - 2;0;9;1;15:07;Broken Walls;Group B
+MSC26_GB_M04_G2;23/07/2026;Blue;Lose;Xeno;Jungler;Hirara;Fanny;Retribution;Geekay Esports;Yangon Galacticos;0 - 2;0;4;1;15:07;Broken Walls;Group B
+MSC26_GB_M04_G2;23/07/2026;Blue;Lose;Quanok;Midlane;Selena;Atlas;Flicker;Geekay Esports;Yangon Galacticos;0 - 2;0;5;1;15:07;Broken Walls;Group B
+MSC26_GB_M04_G2;23/07/2026;Blue;Lose;Yaga;Goldlane;Paquito;Barats;Flicker;Geekay Esports;Yangon Galacticos;0 - 2;4;6;0;15:07;Broken Walls;Group B
+MSC26_GB_M04_G2;23/07/2026;Blue;Lose;Shen;Roamer;Jawhead;Uranus;Flicker;Geekay Esports;Yangon Galacticos;0 - 2;0;6;2;15:07;Broken Walls;Group B
+MSC26_GB_M05_G1;25/07/2026;Red;Lose;Aizn;Explane;Uranus;Marcel;Flicker;Geekay Esports;Selangor Red Giants;0 - 1;2;3;4;14:36;Expanding Rivers;Group B
+MSC26_GB_M05_G1;25/07/2026;Red;Lose;Xeno;Jungler;Ling;Fanny;Retribution;Geekay Esports;Selangor Red Giants;0 - 1;2;2;6;14:36;Expanding Rivers;Group B
+MSC26_GB_M05_G1;25/07/2026;Red;Lose;Quanok;Midlane;Zhuxin;Freya;Flicker;Geekay Esports;Selangor Red Giants;0 - 1;2;4;7;14:36;Expanding Rivers;Group B
+MSC26_GB_M05_G1;25/07/2026;Red;Lose;Yaga;Goldlane;Helcurt;Phoveus;Execute;Geekay Esports;Selangor Red Giants;0 - 1;4;4;2;14:36;Expanding Rivers;Group B
+MSC26_GB_M05_G1;25/07/2026;Red;Lose;Shen;Roamer;Belerick;Barats;Flicker;Geekay Esports;Selangor Red Giants;0 - 1;1;6;7;14:36;Expanding Rivers;Group B
+MSC26_GB_M05_G1;25/07/2026;Blue;Win;Kramm;Explane;Paquito;Harley;Flicker;Selangor Red Giants;Geekay Esports;1 - 0;5;2;7;14:36;Expanding Rivers;Group B
+MSC26_GB_M05_G1;25/07/2026;Blue;Win;Sekys;Jungler;Hirara;Eudora;Retribution;Selangor Red Giants;Geekay Esports;1 - 0;3;3;10;14:36;Expanding Rivers;Group B
+MSC26_GB_M05_G1;25/07/2026;Blue;Win;Stormie;Midlane;Yve;Atlas;Flicker;Selangor Red Giants;Geekay Esports;1 - 0;4;2;10;14:36;Expanding Rivers;Group B
+MSC26_GB_M05_G1;25/07/2026;Blue;Win;Innocent;Goldlane;Moskov;Harith;Purify;Selangor Red Giants;Geekay Esports;1 - 0;7;1;3;14:36;Expanding Rivers;Group B
+MSC26_GB_M05_G1;25/07/2026;Blue;Win;Yums;Roamer;Hylos;Claude;Revitalize;Selangor Red Giants;Geekay Esports;1 - 0;0;3;14;14:36;Expanding Rivers;Group B
+MSC26_GB_M05_G2;25/07/2026;Blue;Win;Aizn;Explane;Esmeralda;Fanny;Purify;Geekay Esports;Selangor Red Giants;1 - 1;3;0;8;12:32;Dangerous Grass;Group B
+MSC26_GB_M05_G2;25/07/2026;Blue;Win;Xeno;Jungler;Ling;Moskov;Retribution;Geekay Esports;Selangor Red Giants;1 - 1;7;0;4;12:32;Dangerous Grass;Group B
+MSC26_GB_M05_G2;25/07/2026;Blue;Win;Quanok;Midlane;Valir;Freya;Flicker;Geekay Esports;Selangor Red Giants;1 - 1;0;2;6;12:32;Dangerous Grass;Group B
+MSC26_GB_M05_G2;25/07/2026;Blue;Win;Yaga;Goldlane;Claude;Brody;Purify;Geekay Esports;Selangor Red Giants;1 - 1;2;2;2;12:32;Dangerous Grass;Group B
+MSC26_GB_M05_G2;25/07/2026;Blue;Win;Shen;Roamer;Gloo;Melissa;Flicker;Geekay Esports;Selangor Red Giants;1 - 1;3;1;7;12:32;Dangerous Grass;Group B
+MSC26_GB_M05_G2;25/07/2026;Red;Lose;Kramm;Explane;Dyrroth;Marcel;Flicker;Selangor Red Giants;Geekay Esports;1 - 1;0;4;1;12:32;Dangerous Grass;Group B
+MSC26_GB_M05_G2;25/07/2026;Red;Lose;Sekys;Jungler;Yi Sunshin;Hirara;Retribution;Selangor Red Giants;Geekay Esports;1 - 1;1;4;4;12:32;Dangerous Grass;Group B
+MSC26_GB_M05_G2;25/07/2026;Red;Lose;Stormie;Midlane;Valentina;Harley;Flicker;Selangor Red Giants;Geekay Esports;1 - 1;0;1;3;12:32;Dangerous Grass;Group B
+MSC26_GB_M05_G2;25/07/2026;Red;Lose;Innocent;Goldlane;Paquito;Zhuxin;Flicker;Selangor Red Giants;Geekay Esports;1 - 1;4;3;0;12:32;Dangerous Grass;Group B
+MSC26_GB_M05_G2;25/07/2026;Red;Lose;Yums;Roamer;Atlas;Eudora;Flicker;Selangor Red Giants;Geekay Esports;1 - 1;0;3;3;12:32;Dangerous Grass;Group B
+MSC26_GB_M05_G3;25/07/2026;Red;Lose;Aizn;Explane;Alice;Fanny;Flicker;Geekay Esports;Selangor Red Giants;1 - 2;0;1;1;10:58;Expanding Rivers;Group B
+MSC26_GB_M05_G3;25/07/2026;Red;Lose;Xeno;Jungler;Ling;Moskov;Retribution;Geekay Esports;Selangor Red Giants;1 - 2;1;1;3;10:58;Expanding Rivers;Group B
+MSC26_GB_M05_G3;25/07/2026;Red;Lose;Quanok;Midlane;Zhuxin;Marcel;Flicker;Geekay Esports;Selangor Red Giants;1 - 2;2;4;2;10:58;Expanding Rivers;Group B
+MSC26_GB_M05_G3;25/07/2026;Red;Lose;Yaga;Goldlane;Freya;Yve;Purify;Geekay Esports;Selangor Red Giants;1 - 2;1;3;0;10:58;Expanding Rivers;Group B
+MSC26_GB_M05_G3;25/07/2026;Red;Lose;Shen;Roamer;Gatot Kaca;Hylos;Revitalize;Geekay Esports;Selangor Red Giants;1 - 2;0;3;4;10:58;Expanding Rivers;Group B
+MSC26_GB_M05_G3;25/07/2026;Blue;Win;Kramm;Explane;Paquito;Eudora;Flicker;Selangor Red Giants;Geekay Esports;2 - 1;3;3;7;10:58;Expanding Rivers;Group B
+MSC26_GB_M05_G3;25/07/2026;Blue;Win;Unii;Jungler;Hirara;Harley;Retribution;Selangor Red Giants;Geekay Esports;2 - 1;1;0;8;10:58;Expanding Rivers;Group B
+MSC26_GB_M05_G3;25/07/2026;Blue;Win;Stormie;Midlane;Kimmy;Atlas;Flicker;Selangor Red Giants;Geekay Esports;2 - 1;0;1;10;10:58;Expanding Rivers;Group B
+MSC26_GB_M05_G3;25/07/2026;Blue;Win;Innocent;Goldlane;Brody;Esmeralda;Flicker;Selangor Red Giants;Geekay Esports;2 - 1;7;0;1;10:58;Expanding Rivers;Group B
+MSC26_GB_M05_G3;25/07/2026;Blue;Win;Yums;Roamer;Hilda;Belerick;Flicker;Selangor Red Giants;Geekay Esports;2 - 1;1;0;7;10:58;Expanding Rivers;Group B
+MSC26_GB_M06_G1;25/07/2026;Blue;Win;Ying;Explane;Uranus;Ling;Flicker;Yangon Galacticos;PRO Esports;1 - 0;3;1;6;30:01;Dangerous Grass;Group B
+MSC26_GB_M06_G1;25/07/2026;Blue;Win;Hannn;Jungler;Fredrinn;Belerick;Retribution;Yangon Galacticos;PRO Esports;1 - 0;5;5;4;30:01;Dangerous Grass;Group B
+MSC26_GB_M06_G1;25/07/2026;Blue;Win;Kaize;Midlane;Gord;Valentina;Flicker;Yangon Galacticos;PRO Esports;1 - 0;2;3;7;30:01;Dangerous Grass;Group B
+MSC26_GB_M06_G1;25/07/2026;Blue;Win;Sanji(MM);Goldlane;Moskov;Eudora;Flicker;Yangon Galacticos;PRO Esports;1 - 0;4;2;5;30:01;Dangerous Grass;Group B
+MSC26_GB_M06_G1;25/07/2026;Blue;Win;Blink;Roamer;Marcel;Vexana;Flicker;Yangon Galacticos;PRO Esports;1 - 0;1;5;10;30:01;Dangerous Grass;Group B
+MSC26_GB_M06_G1;25/07/2026;Red;Lose;SryImFelix;Explane;Phoveus;Atlas;Flicker;PRO Esports;Yangon Galacticos;0 - 1;1;3;8;30:01;Dangerous Grass;Group B
+MSC26_GB_M06_G1;25/07/2026;Red;Lose;Koyly;Jungler;Fanny;Freya;Retribution;PRO Esports;Yangon Galacticos;0 - 1;11;3;3;30:01;Dangerous Grass;Group B
+MSC26_GB_M06_G1;25/07/2026;Red;Lose;SAA;Midlane;Zetian;Zhuxin;Flicker;PRO Esports;Yangon Galacticos;0 - 1;2;2;9;30:01;Dangerous Grass;Group B
+MSC26_GB_M06_G1;25/07/2026;Red;Lose;Kouzen;Goldlane;Claude;Arlott;Flicker;PRO Esports;Yangon Galacticos;0 - 1;1;2;5;30:01;Dangerous Grass;Group B
+MSC26_GB_M06_G1;25/07/2026;Red;Lose;PPPPP;Roamer;Gloo;Barats;Flicker;PRO Esports;Yangon Galacticos;0 - 1;1;5;11;30:01;Dangerous Grass;Group B
+MSC26_GB_M06_G2;25/07/2026;Red;Win;Ying;Explane;Barats;Marcel;Flicker;Yangon Galacticos;PRO Esports;2 - 0;0;2;12;12:26;Flying Clouds;Group B
+MSC26_GB_M06_G2;25/07/2026;Red;Win;Hannn;Jungler;Hirara;Ling;Retribution;Yangon Galacticos;PRO Esports;2 - 0;10;0;2;12:26;Flying Clouds;Group B
+MSC26_GB_M06_G2;25/07/2026;Red;Win;Kaize;Midlane;Eudora;Freya;Flicker;Yangon Galacticos;PRO Esports;2 - 0;1;0;10;12:26;Flying Clouds;Group B
+MSC26_GB_M06_G2;25/07/2026;Red;Win;Sanji(MM);Goldlane;Ixia;Zhuxin;Flicker;Yangon Galacticos;PRO Esports;2 - 0;5;0;5;12:26;Flying Clouds;Group B
+MSC26_GB_M06_G2;25/07/2026;Red;Win;Blink;Roamer;Mathilda;Valentina;Flicker;Yangon Galacticos;PRO Esports;2 - 0;1;0;16;12:26;Flying Clouds;Group B
+MSC26_GB_M06_G2;25/07/2026;Blue;Lose;SryImFelix;Explane;Uranus;Atlas;Purify;PRO Esports;Yangon Galacticos;0 - 2;0;3;2;12:26;Flying Clouds;Group B
+MSC26_GB_M06_G2;25/07/2026;Blue;Lose;Koyly;Jungler;Yi Sunshin;Phoveus;Retribution;PRO Esports;Yangon Galacticos;0 - 2;1;2;1;12:26;Flying Clouds;Group B
+MSC26_GB_M06_G2;25/07/2026;Blue;Lose;SAA;Midlane;Vexana;Fredrinn;Flicker;PRO Esports;Yangon Galacticos;0 - 2;1;2;1;12:26;Flying Clouds;Group B
+MSC26_GB_M06_G2;25/07/2026;Blue;Lose;Kouzen;Goldlane;Ruby;Minotaur;Flicker;PRO Esports;Yangon Galacticos;0 - 2;0;5;2;12:26;Flying Clouds;Group B
+MSC26_GB_M06_G2;25/07/2026;Blue;Lose;PPPPP;Roamer;Belerick;Carmilla;Revitalize;PRO Esports;Yangon Galacticos;0 - 2;0;5;2;12:26;Flying Clouds;Group B
+MSC26_GB_M07_G1;25/07/2026;Red;Lose;Lutpiii;Explane;Sora;Paquito;Flicker;ONIC;Aurora Gaming;0 - 1;2;4;3;13:47;Expanding Rivers;Group B
+MSC26_GB_M07_G1;25/07/2026;Red;Lose;Kairi;Jungler;Ling;Hirara;Retribution;ONIC;Aurora Gaming;0 - 1;3;1;1;13:47;Expanding Rivers;Group B
+MSC26_GB_M07_G1;25/07/2026;Red;Lose;Sanz;Midlane;Eudora;Freya;Flicker;ONIC;Aurora Gaming;0 - 1;0;5;3;13:47;Expanding Rivers;Group B
+MSC26_GB_M07_G1;25/07/2026;Red;Lose;Kelra;Goldlane;Melissa;Chou;Flicker;ONIC;Aurora Gaming;0 - 1;0;2;1;13:47;Expanding Rivers;Group B
+MSC26_GB_M07_G1;25/07/2026;Red;Lose;Kiboy;Roamer;Badang;Belerick;Flicker;ONIC;Aurora Gaming;0 - 1;0;5;3;13:47;Expanding Rivers;Group B
+MSC26_GB_M07_G1;25/07/2026;Blue;Win;Lunar;Explane;Uranus;Marcel;Purify;Aurora Gaming;ONIC;1 - 0;0;2;9;13:47;Expanding Rivers;Group B
+MSC26_GB_M07_G1;25/07/2026;Blue;Win;Tienzy;Jungler;Fanny;Atlas;Retribution;Aurora Gaming;ONIC;1 - 0;6;2;3;13:47;Expanding Rivers;Group B
+MSC26_GB_M07_G1;25/07/2026;Blue;Win;Rosa;Midlane;Selena;Zhuxin;Flicker;Aurora Gaming;ONIC;1 - 0;6;0;6;13:47;Expanding Rivers;Group B
+MSC26_GB_M07_G1;25/07/2026;Blue;Win;Sigibum;Goldlane;Harith;Brody;Purify;Aurora Gaming;ONIC;1 - 0;4;1;6;13:47;Expanding Rivers;Group B
+MSC26_GB_M07_G1;25/07/2026;Blue;Win;Pagu;Roamer;Minotaur;Esmeralda;Flicker;Aurora Gaming;ONIC;1 - 0;1;0;15;13:47;Expanding Rivers;Group B
+MSC26_GB_M07_G2;25/07/2026;Blue;Win;Lutpiii;Explane;Uranus;Selena;Flicker;ONIC;Aurora Gaming;1 - 1;3;0;15;16:36;Dangerous Grass;Group B
+MSC26_GB_M07_G2;25/07/2026;Blue;Win;Kairi;Jungler;Hirara;Paquito;Retribution;ONIC;Aurora Gaming;1 - 1;11;4;5;16:36;Dangerous Grass;Group B
+MSC26_GB_M07_G2;25/07/2026;Blue;Win;Sanz;Midlane;Valentina;Fanny;Flicker;ONIC;Aurora Gaming;1 - 1;4;4;13;16:36;Dangerous Grass;Group B
+MSC26_GB_M07_G2;25/07/2026;Blue;Win;Kelra;Goldlane;Moskov;Esmeralda;Purify;ONIC;Aurora Gaming;1 - 1;1;1;9;16:36;Dangerous Grass;Group B
+MSC26_GB_M07_G2;25/07/2026;Blue;Win;Kiboy;Roamer;Chou;Barats;Flicker;ONIC;Aurora Gaming;1 - 1;4;3;13;16:36;Dangerous Grass;Group B
+MSC26_GB_M07_G2;25/07/2026;Red;Lose;Lunar;Explane;Hilda;Freya;Flicker;Aurora Gaming;ONIC;1 - 1;3;2;2;16:36;Dangerous Grass;Group B
+MSC26_GB_M07_G2;25/07/2026;Red;Lose;Tienzy;Jungler;Ling;Marcel;Retribution;Aurora Gaming;ONIC;1 - 1;0;6;4;16:36;Dangerous Grass;Group B
+MSC26_GB_M07_G2;25/07/2026;Red;Lose;Rosa;Midlane;Eudora;Atlas;Flicker;Aurora Gaming;ONIC;1 - 1;4;5;5;16:36;Dangerous Grass;Group B
+MSC26_GB_M07_G2;25/07/2026;Red;Lose;Sigibum;Goldlane;Claude;Vexana;Purify;Aurora Gaming;ONIC;1 - 1;1;3;4;16:36;Dangerous Grass;Group B
+MSC26_GB_M07_G2;25/07/2026;Red;Lose;Pagu;Roamer;Belerick;Brody;Flicker;Aurora Gaming;ONIC;1 - 1;4;7;4;16:36;Dangerous Grass;Group B
+MSC26_GB_M07_G3;25/07/2026;Red;Lose;Lutpiii;Explane;Barats;Selena;Flicker;ONIC;Aurora Gaming;1 - 2;1;4;1;09:41;Expanding Rivers;Group B
+MSC26_GB_M07_G3;25/07/2026;Red;Lose;Kairi;Jungler;Ling;Fanny;Retribution;ONIC;Aurora Gaming;1 - 2;1;2;3;09:41;Expanding Rivers;Group B
+MSC26_GB_M07_G3;25/07/2026;Red;Lose;Sanz;Midlane;Eudora;Hirara;Flicker;ONIC;Aurora Gaming;1 - 2;1;4;2;09:41;Expanding Rivers;Group B
+MSC26_GB_M07_G3;25/07/2026;Red;Lose;Kelra;Goldlane;Paquito;Guinevere;Flicker;ONIC;Aurora Gaming;1 - 2;0;3;1;09:41;Expanding Rivers;Group B
+MSC26_GB_M07_G3;25/07/2026;Red;Lose;Kiboy;Roamer;Minotaur;Rafaela;Flicker;ONIC;Aurora Gaming;1 - 2;1;2;2;09:41;Expanding Rivers;Group B
+MSC26_GB_M07_G3;25/07/2026;Blue;Win;Lunar;Explane;Uranus;Marcel;Purify;Aurora Gaming;ONIC;2 - 1;3;0;9;09:41;Expanding Rivers;Group B
+MSC26_GB_M07_G3;25/07/2026;Blue;Win;Tienzy;Jungler;Yi Sunshin;Atlas;Retribution;Aurora Gaming;ONIC;2 - 1;4;2;8;09:41;Expanding Rivers;Group B
+MSC26_GB_M07_G3;25/07/2026;Blue;Win;Rosa;Midlane;Luo Yi;Zhuxin;Flicker;Aurora Gaming;ONIC;2 - 1;3;1;8;09:41;Expanding Rivers;Group B
+MSC26_GB_M07_G3;25/07/2026;Blue;Win;Sigibum;Goldlane;Freya;Esmeralda;Purify;Aurora Gaming;ONIC;2 - 1;5;0;4;09:41;Expanding Rivers;Group B
+MSC26_GB_M07_G3;25/07/2026;Blue;Win;Pagu;Roamer;Belerick;Karrie;Flicker;Aurora Gaming;ONIC;2 - 1;0;1;9;09:41;Expanding Rivers;Group B
+MSC26_GB_M08_G1;25/07/2026;Red;Win;Akashi;Explane;Freya;Marcel;Vengeance;Entity7;Team Liquid PH;1 - 0;9;1;9;09:41;Dangerous Grass;Group B
+MSC26_GB_M08_G1;25/07/2026;Red;Win;HideOnBush;Jungler;Barats;Valentina;Retribution;Entity7;Team Liquid PH;1 - 0;3;2;14;19:28;Dangerous Grass;Group B
+MSC26_GB_M08_G1;25/07/2026;Red;Win;Shin;Midlane;Selena;Atlas;Flicker;Entity7;Team Liquid PH;1 - 0;4;3;7;19:28;Dangerous Grass;Group B
+MSC26_GB_M08_G1;25/07/2026;Red;Win;Doom;Goldlane;Moskov;Karrie;Flicker;Entity7;Team Liquid PH;1 - 0;4;1;7;19:28;Dangerous Grass;Group B
+MSC26_GB_M08_G1;25/07/2026;Red;Win;Vaguin;Roamer;Belerick;Chou;Flicker;Entity7;Team Liquid PH;1 - 0;1;3;17;19:28;Dangerous Grass;Group B
+MSC26_GB_M08_G1;25/07/2026;Blue;Lose;Sanford;Explane;Uranus;Fanny;Purify;Team Liquid PH;Entity7;0 - 1;1;3;1;19:28;Dangerous Grass;Group B
+MSC26_GB_M08_G1;25/07/2026;Blue;Lose;KarlTzy;Jungler;Hirara;Phoveus;Retribution;Team Liquid PH;Entity7;0 - 1;4;5;3;19:28;Dangerous Grass;Group B
+MSC26_GB_M08_G1;25/07/2026;Blue;Lose;Sanji(PH);Midlane;Eudora;Esmeralda;Flicker;Team Liquid PH;Entity7;0 - 1;1;6;4;19:28;Dangerous Grass;Group B
+MSC26_GB_M08_G1;25/07/2026;Blue;Lose;Teddy;Goldlane;Paquito;Guinevere;Flicker;Team Liquid PH;Entity7;0 - 1;2;3;3;19:28;Dangerous Grass;Group B
+MSC26_GB_M08_G1;25/07/2026;Blue;Lose;Jaypee;Roamer;Minotaur;Yi Sunshin;Flicker;Team Liquid PH;Entity7;0 - 1;2;4;7;19:28;Dangerous Grass;Group B
+MSC26_GB_M08_G2;25/07/2026;Red;Win;Akashi;Explane;Uranus;Marcel;Purify;Entity7;Team Liquid PH;2 - 0;1;1;5;19:28;Flying Clouds;Group B
+MSC26_GB_M08_G2;25/07/2026;Red;Win;HideOnBush;Jungler;Ling;Atlas;Retribution;Entity7;Team Liquid PH;2 - 0;7;1;2;19:28;Flying Clouds;Group B
+MSC26_GB_M08_G2;25/07/2026;Red;Win;Shin;Midlane;Eudora;Freya;Flicker;Entity7;Team Liquid PH;2 - 0;1;2;9;19:28;Flying Clouds;Group B
+MSC26_GB_M08_G2;25/07/2026;Red;Win;Doom;Goldlane;Claude;Chou;Purify;Entity7;Team Liquid PH;2 - 0;3;1;6;19:28;Flying Clouds;Group B
+MSC26_GB_M08_G2;25/07/2026;Red;Win;Vaguin;Roamer;Belerick;Hylos;Flicker;Entity7;Team Liquid PH;2 - 0;1;3;8;19:28;Flying Clouds;Group B
+MSC26_GB_M08_G2;25/07/2026;Blue;Lose;Sanford;Explane;Barats;Fanny;Flicker;Team Liquid PH;Entity7;0 - 2;0;4;4;19:28;Flying Clouds;Group B
+MSC26_GB_M08_G2;25/07/2026;Blue;Lose;KarlTzy;Jungler;Hirara;Phoveus;Retribution;Team Liquid PH;Entity7;0 - 2;1;2;3;19:28;Flying Clouds;Group B
+MSC26_GB_M08_G2;25/07/2026;Blue;Lose;Sanji(PH);Midlane;Valentina;Esmeralda;Flicker;Team Liquid PH;Entity7;0 - 2;3;1;5;19:28;Flying Clouds;Group B
+MSC26_GB_M08_G2;25/07/2026;Blue;Lose;Teddy;Goldlane;Melissa;Moskov;Flicker;Team Liquid PH;Entity7;0 - 2;3;1;1;19:28;Flying Clouds;Group B
+MSC26_GB_M08_G2;25/07/2026;Blue;Lose;Jaypee;Roamer;Hilda;Karrie;Flicker;Team Liquid PH;Entity7;0 - 2;1;5;2;19:28;Flying Clouds;Group B
+MSC26_GB_M09_G1;26/07/2026;Blue;Win;SryImFelix;Explane;Sora;Phoveus;Flicker;PRO Esports;Entity7;1 - 0;6;2;19;23:37;Flying Clouds;Group B
+MSC26_GB_M09_G1;26/07/2026;Blue;Win;Koyly;Jungler;Ling;Atlas;Retribution;PRO Esports;Entity7;1 - 0;8;5;15;23:37;Flying Clouds;Group B
+MSC26_GB_M09_G1;26/07/2026;Blue;Win;SAA;Midlane;Valentina;Uranus;Flicker;PRO Esports;Entity7;1 - 0;4;4;20;23:37;Flying Clouds;Group B
+MSC26_GB_M09_G1;26/07/2026;Blue;Win;Kouzen;Goldlane;Harith;Freya;Purify;PRO Esports;Entity7;1 - 0;18;2;10;23:37;Flying Clouds;Group B
+MSC26_GB_M09_G1;26/07/2026;Blue;Win;PPPPP;Roamer;Chou;Brody;Flicker;PRO Esports;Entity7;1 - 0;3;3;19;23:37;Flying Clouds;Group B
+MSC26_GB_M09_G1;26/07/2026;Red;Lose;Akashi;Explane;Esmeralda;Marcel;Purify;Entity7;PRO Esports;0 - 1;2;8;5;23:37;Flying Clouds;Group B
+MSC26_GB_M09_G1;26/07/2026;Red;Lose;HideOnBush;Jungler;Hirara;Fanny;Retribution;Entity7;PRO Esports;0 - 1;8;6;4;23:37;Flying Clouds;Group B
+MSC26_GB_M09_G1;26/07/2026;Red;Lose;Shin;Midlane;Eudora;Zhuxin;Flicker;Entity7;PRO Esports;0 - 1;2;8;5;23:37;Flying Clouds;Group B
+MSC26_GB_M09_G1;26/07/2026;Red;Lose;Doom;Goldlane;Karrie;Barats;Purify;Entity7;PRO Esports;0 - 1;2;8;8;23:37;Flying Clouds;Group B
+MSC26_GB_M09_G1;26/07/2026;Red;Lose;Vaguin;Roamer;Belerick;Alice;Flicker;Entity7;PRO Esports;0 - 1;2;9;9;23:37;Flying Clouds;Group B
+MSC26_GB_M09_G2;26/07/2026;Red;Win;SryImFelix;Explane;Uranus;Marcel;Purify;PRO Esports;Entity7;2 - 0;4;2;10;19:12;Flying Clouds;Group B
+MSC26_GB_M09_G2;26/07/2026;Red;Win;Koyly;Jungler;Yi Sunshin;Freya;Retribution;PRO Esports;Entity7;2 - 0;7;2;5;19:12;Flying Clouds;Group B
+MSC26_GB_M09_G2;26/07/2026;Red;Win;SAA;Midlane;Zhuxin;Hirara;Purify;PRO Esports;Entity7;2 - 0;1;1;10;19:12;Flying Clouds;Group B
+MSC26_GB_M09_G2;26/07/2026;Red;Win;Kouzen;Goldlane;Harith;Phoveus;Purify;PRO Esports;Entity7;2 - 0;7;2;5;19:12;Flying Clouds;Group B
+MSC26_GB_M09_G2;26/07/2026;Red;Win;PPPPP;Roamer;Gatot Kaca;Esmeralda;Revitalize;PRO Esports;Entity7;2 - 0;0;3;14;19:12;Flying Clouds;Group B
+MSC26_GB_M09_G2;26/07/2026;Blue;Lose;Akashi;Explane;Paquito;Fanny;Flicker;Entity7;PRO Esports;0 - 2;4;4;1;19:12;Flying Clouds;Group B
+MSC26_GB_M09_G2;26/07/2026;Blue;Lose;HideOnBush;Jungler;Guinevere;Valentina;Retribution;Entity7;PRO Esports;0 - 2;2;5;6;19:12;Flying Clouds;Group B
+MSC26_GB_M09_G2;26/07/2026;Blue;Lose;Shin;Midlane;Gord;Ling;Flicker;Entity7;PRO Esports;0 - 2;2;4;5;19:12;Flying Clouds;Group B
+MSC26_GB_M09_G2;26/07/2026;Blue;Lose;Doom;Goldlane;Moskov;Chou;Flicker;Entity7;PRO Esports;0 - 2;2;3;3;19:12;Flying Clouds;Group B
+MSC26_GB_M09_G2;26/07/2026;Blue;Lose;Vaguin;Roamer;Atlas;Belerick;Flicker;Entity7;PRO Esports;0 - 2;0;3;9;19:12;Flying Clouds;Group B
+MSC26_GB_M10_G1;26/07/2026;Blue;Win;Lutpiii;Explane;Uranus;Selena;Purify;ONIC;Selangor Red Giants;1 - 0;0;3;8;23:42;Expanding Rivers;Group B
+MSC26_GB_M10_G1;26/07/2026;Blue;Win;Kairi;Jungler;Ling;Fanny;Retribution;ONIC;Selangor Red Giants;1 - 0;8;1;6;23:42;Expanding Rivers;Group B
+MSC26_GB_M10_G1;26/07/2026;Blue;Win;Sanz;Midlane;Aurora;Atlas;Flicker;ONIC;Selangor Red Giants;1 - 0;1;6;9;23:42;Expanding Rivers;Group B
+MSC26_GB_M10_G1;26/07/2026;Blue;Win;Kelra;Goldlane;Claude;Moskov;Purify;ONIC;Selangor Red Giants;1 - 0;7;3;8;23:42;Expanding Rivers;Group B
+MSC26_GB_M10_G1;26/07/2026;Blue;Win;Kiboy;Roamer;Belerick;Brody;Flicker;ONIC;Selangor Red Giants;1 - 0;0;7;10;23:42;Expanding Rivers;Group B
+MSC26_GB_M10_G1;26/07/2026;Red;Lose;Kramm;Explane;Hilda;Marcel;Flicker;Selangor Red Giants;ONIC;0 - 1;3;1;13;23:42;Expanding Rivers;Group B
+MSC26_GB_M10_G1;26/07/2026;Red;Lose;Unii;Jungler;Paquito;Hirara;Retribution;Selangor Red Giants;ONIC;0 - 1;11;3;6;23:42;Expanding Rivers;Group B
+MSC26_GB_M10_G1;26/07/2026;Red;Lose;Stormie;Midlane;Zhuxin;Freya;Purify;Selangor Red Giants;ONIC;0 - 1;4;3;12;23:42;Expanding Rivers;Group B
+MSC26_GB_M10_G1;26/07/2026;Red;Lose;Innocent;Goldlane;Harith;Eudora;Purify;Selangor Red Giants;ONIC;0 - 1;2;4;7;23:42;Expanding Rivers;Group B
+MSC26_GB_M10_G1;26/07/2026;Red;Lose;Yums;Roamer;Chou;Valentina;Flicker;Selangor Red Giants;ONIC;0 - 1;0;5;13;23:42;Expanding Rivers;Group B
+MSC26_GB_M10_G2;26/07/2026;Red;Win;Lutpiii;Explane;Uranus;Marcel;Purify;ONIC;Selangor Red Giants;2 - 0;1;0;6;11:09;Flying Clouds;Group B
+MSC26_GB_M10_G2;26/07/2026;Red;Win;Kairi;Jungler;Nolan;Selena;Retribution;ONIC;Selangor Red Giants;2 - 0;4;0;6;11:09;Flying Clouds;Group B
+MSC26_GB_M10_G2;26/07/2026;Red;Win;Sanz;Midlane;Lylia;Freya;Purify;ONIC;Selangor Red Giants;2 - 0;4;0;7;11:09;Flying Clouds;Group B
+MSC26_GB_M10_G2;26/07/2026;Red;Win;Kelra;Goldlane;Harith;Chou;Purify;ONIC;Selangor Red Giants;2 - 0;3;2;5;11:09;Flying Clouds;Group B
+MSC26_GB_M10_G2;26/07/2026;Red;Win;Kiboy;Roamer;Belerick;Badang;Flicker;ONIC;Selangor Red Giants;2 - 0;0;1;9;11:09;Flying Clouds;Group B
+MSC26_GB_M10_G2;26/07/2026;Blue;Lose;Kramm;Explane;Barats;Atlas;Flicker;Selangor Red Giants;ONIC;0 - 2;0;3;1;11:09;Flying Clouds;Group B
+MSC26_GB_M10_G2;26/07/2026;Blue;Lose;Unii;Jungler;Hirara;Zhuxin;Retribution;Selangor Red Giants;ONIC;0 - 2;1;3;2;11:09;Flying Clouds;Group B
+MSC26_GB_M10_G2;26/07/2026;Blue;Lose;Stormie;Midlane;Eudora;Fanny;Sprint;Selangor Red Giants;ONIC;0 - 2;0;0;3;11:09;Flying Clouds;Group B
+MSC26_GB_M10_G2;26/07/2026;Blue;Lose;Innocent;Goldlane;Karrie;Rafaela;Flicker;Selangor Red Giants;ONIC;0 - 2;2;2;1;11:09;Flying Clouds;Group B
+MSC26_GB_M10_G2;26/07/2026;Blue;Lose;Yums;Roamer;Khufra;Luo Yi;Flicker;Selangor Red Giants;ONIC;0 - 2;0;4;2;11:09;Flying Clouds;Group B
+MSC26_PO_M01_G1;29/07/2026;Blue;Win;Ying;Explane;Freya;Ling;Purify;Yangon Galacticos;PRO Esports;1 - 0;4;0;10;11:07;Expanding Rivers;Playoffs
+MSC26_PO_M01_G1;29/07/2026;Blue;Win;Hannn;Jungler;Guinevere;Fanny;Retribution;Yangon Galacticos;PRO Esports;1 - 0;3;4;4;11:07;Expanding Rivers;Playoffs
+MSC26_PO_M01_G1;29/07/2026;Blue;Win;Kaize;Midlane;Zhuxin;Phoveus;Purify;Yangon Galacticos;PRO Esports;1 - 0;4;0;15;11:07;Expanding Rivers;Playoffs
+MSC26_PO_M01_G1;29/07/2026;Blue;Win;Sanji(MM);Goldlane;Claude;Esmeralda;Purify;Yangon Galacticos;PRO Esports;1 - 0;7;0;6;11:07;Expanding Rivers;Playoffs
+MSC26_PO_M01_G1;29/07/2026;Blue;Win;Blink;Roamer;Carmilla;Sora;Revitalize;Yangon Galacticos;PRO Esports;1 - 0;1;1;15;11:07;Expanding Rivers;Playoffs
+MSC26_PO_M01_G1;29/07/2026;Red;Lose;SryImFelix;Explane;Yu Zhong;Marcel;Petrify;PRO Esports;Yangon Galacticos;0 - 1;2;3;1;11:07;Expanding Rivers;Playoffs
+MSC26_PO_M01_G1;29/07/2026;Red;Lose;Koyly;Jungler;Baxia;Atlas;Retribution;PRO Esports;Yangon Galacticos;0 - 1;1;3;4;11:07;Expanding Rivers;Playoffs
+MSC26_PO_M01_G1;29/07/2026;Red;Lose;SAA;Midlane;Gord;Hirara;Flicker;PRO Esports;Yangon Galacticos;0 - 1;1;3;4;11:07;Expanding Rivers;Playoffs
+MSC26_PO_M01_G1;29/07/2026;Red;Lose;Kouzen;Goldlane;Moskov;Gloo;Purify;PRO Esports;Yangon Galacticos;0 - 1;1;3;1;11:07;Expanding Rivers;Playoffs
+MSC26_PO_M01_G1;29/07/2026;Red;Lose;PPPPP;Roamer;Chou;Mathilda;Flicker;PRO Esports;Yangon Galacticos;0 - 1;0;7;5;11:07;Expanding Rivers;Playoffs
+MSC26_PO_M01_G2;29/07/2026;Red;Win;Ying;Explane;Barats;Ling;Flicker;Yangon Galacticos;PRO Esports;2 - 0;4;0;14;13:56;Dangerous Grass;Playoffs
+MSC26_PO_M01_G2;29/07/2026;Red;Win;Hannn;Jungler;Suyou;Marcel;Retribution;Yangon Galacticos;PRO Esports;2 - 0;10;1;7;13:56;Dangerous Grass;Playoffs
+MSC26_PO_M01_G2;29/07/2026;Red;Win;Kaize;Midlane;Eudora;Freya;Flicker;Yangon Galacticos;PRO Esports;2 - 0;5;1;14;13:56;Dangerous Grass;Playoffs
+MSC26_PO_M01_G2;29/07/2026;Red;Win;Sanji(MM);Goldlane;Claude;Harith;Purify;Yangon Galacticos;PRO Esports;2 - 0;3;1;6;13:56;Dangerous Grass;Playoffs
+MSC26_PO_M01_G2;29/07/2026;Red;Win;Blink;Roamer;Gloo;Sora;Flicker;Yangon Galacticos;PRO Esports;2 - 0;0;1;16;13:56;Dangerous Grass;Playoffs
+MSC26_PO_M01_G2;29/07/2026;Blue;Lose;SryImFelix;Explane;Lapu lapu;Phoveus;Flicker;PRO Esports;Yangon Galacticos;0 - 2;1;5;2;13:56;Dangerous Grass;Playoffs
+MSC26_PO_M01_G2;29/07/2026;Blue;Lose;Koyly;Jungler;Hirara;Uranus;Retribution;PRO Esports;Yangon Galacticos;0 - 2;1;5;2;13:56;Dangerous Grass;Playoffs
+MSC26_PO_M01_G2;29/07/2026;Blue;Lose;SAA;Midlane;Selena;Atlas;Flicker;PRO Esports;Yangon Galacticos;0 - 2;1;3;2;13:56;Dangerous Grass;Playoffs
+MSC26_PO_M01_G2;29/07/2026;Blue;Lose;Kouzen;Goldlane;Moskov;Fanny;Purify;PRO Esports;Yangon Galacticos;0 - 2;0;1;1;13:56;Dangerous Grass;Playoffs
+MSC26_PO_M01_G2;29/07/2026;Blue;Lose;PPPPP;Roamer;Belerick;Harley;Revitalize;PRO Esports;Yangon Galacticos;0 - 2;1;8;2;13:56;Dangerous Grass;Playoffs
+MSC26_PO_M01_G3;29/07/2026;Red;Win;Ying;Explane;Ruby;Ling;Flicker;Yangon Galacticos;PRO Esports;3 - 0;2;2;12;15:32;Dangerous Grass;Playoffs
+MSC26_PO_M01_G3;29/07/2026;Red;Win;Hannn;Jungler;Fanny;Marcel;Retribution;Yangon Galacticos;PRO Esports;3 - 0;8;0;5;15:32;Dangerous Grass;Playoffs
+MSC26_PO_M01_G3;29/07/2026;Red;Win;Kaize;Midlane;Eudora;Freya;Flicker;Yangon Galacticos;PRO Esports;3 - 0;4;2;10;15:32;Dangerous Grass;Playoffs
+MSC26_PO_M01_G3;29/07/2026;Red;Win;Sanji(MM);Goldlane;Melissa;Chou;Flicker;Yangon Galacticos;PRO Esports;3 - 0;2;1;7;15:32;Dangerous Grass;Playoffs
+MSC26_PO_M01_G3;29/07/2026;Red;Win;Blink;Roamer;Belerick;Selena;Flicker;Yangon Galacticos;PRO Esports;3 - 0;2;0;13;15:32;Dangerous Grass;Playoffs
+MSC26_PO_M01_G3;29/07/2026;Blue;Lose;SryImFelix;Explane;Uranus;Atlas;Purify;PRO Esports;Yangon Galacticos;0 - 3;1;4;1;15:32;Dangerous Grass;Playoffs
+MSC26_PO_M01_G3;29/07/2026;Blue;Lose;Koyly;Jungler;Hirara;Zhuxin;Retribution;PRO Esports;Yangon Galacticos;0 - 3;1;3;1;15:32;Dangerous Grass;Playoffs
+MSC26_PO_M01_G3;29/07/2026;Blue;Lose;SAA;Midlane;Valentina;Phoveus;Flicker;PRO Esports;Yangon Galacticos;0 - 3;2;2;3;15:32;Dangerous Grass;Playoffs
+MSC26_PO_M01_G3;29/07/2026;Blue;Lose;Kouzen;Goldlane;Harith;Esmeralda;Purify;PRO Esports;Yangon Galacticos;0 - 3;0;2;2;15:32;Dangerous Grass;Playoffs
+MSC26_PO_M01_G3;29/07/2026;Blue;Lose;PPPPP;Roamer;Badang;Brody;Flicker;PRO Esports;Yangon Galacticos;0 - 3;1;7;3;15:32;Dangerous Grass;Playoffs
+MSC26_PO_M02_G1;29/07/2026;Blue;Lose;Shogun;Explane;Barats;Esmeralda;Flicker;Team Vitality;Team Falcons PH;0 - 1;0;3;5;14:53;Dangerous Grass;Playoffs
+MSC26_PO_M02_G1;29/07/2026;Blue;Lose;Nnael;Jungler;Paquito;Fanny;Retribution;Team Vitality;Team Falcons PH;0 - 1;4;3;1;14:53;Dangerous Grass;Playoffs
+MSC26_PO_M02_G1;29/07/2026;Blue;Lose;Moreno;Midlane;Valentina;Atlas;Flicker;Team Vitality;Team Falcons PH;0 - 1;1;4;4;14:53;Dangerous Grass;Playoffs
+MSC26_PO_M02_G1;29/07/2026;Blue;Lose;Emann;Goldlane;Melissa;Harley;Flicker;Team Vitality;Team Falcons PH;0 - 1;0;3;1;14:53;Dangerous Grass;Playoffs
+MSC26_PO_M02_G1;29/07/2026;Blue;Lose;Finn;Roamer;Minotaur;Nolan;Flicker;Team Vitality;Team Falcons PH;0 - 1;0;5;4;14:53;Dangerous Grass;Playoffs
+MSC26_PO_M02_G1;29/07/2026;Red;Win;Flap;Explane;Lapu lapu;Marcel;Flicker;Team Falcons PH;Team Vitality;1 - 0;4;2;7;14:53;Dangerous Grass;Playoffs
+MSC26_PO_M02_G1;29/07/2026;Red;Win;Kyle;Jungler;Joy;Freya;Retribution;Team Falcons PH;Team Vitality;1 - 0;3;2;6;14:53;Dangerous Grass;Playoffs
+MSC26_PO_M02_G1;29/07/2026;Red;Win;Hadji;Midlane;Selena;Hirara;Flicker;Team Falcons PH;Team Vitality;1 - 0;3;0;8;14:53;Dangerous Grass;Playoffs
+MSC26_PO_M02_G1;29/07/2026;Red;Win;Super Marco;Goldlane;Clint;Rafaela;Flicker;Team Falcons PH;Team Vitality;1 - 0;4;0;10;14:53;Dangerous Grass;Playoffs
+MSC26_PO_M02_G1;29/07/2026;Red;Win;Owgwen;Roamer;Belerick;Zhuxin;Flicker;Team Falcons PH;Team Vitality;1 - 0;4;1;10;14:53;Dangerous Grass;Playoffs
+MSC26_PO_M02_G2;29/07/2026;Blue;Win;Shogun;Explane;Barats;Esmeralda;Flicker;Team Vitality;Team Falcons PH;1 - 1;3;0;8;16:50;Expanding Rivers;Playoffs
+MSC26_PO_M02_G2;29/07/2026;Blue;Win;Nnael;Jungler;Nolan;Fanny;Retribution;Team Vitality;Team Falcons PH;1 - 1;6;1;6;16:50;Expanding Rivers;Playoffs
+MSC26_PO_M02_G2;29/07/2026;Blue;Win;Moreno;Midlane;Lylia;Atlas;Flicker;Team Vitality;Team Falcons PH;1 - 1;3;2;10;16:50;Expanding Rivers;Playoffs
+MSC26_PO_M02_G2;29/07/2026;Blue;Win;Emann;Goldlane;Paquito;Belerick;Flicker;Team Vitality;Team Falcons PH;1 - 1;2;4;4;16:50;Expanding Rivers;Playoffs
+MSC26_PO_M02_G2;29/07/2026;Blue;Win;Finn;Roamer;Gloo;Chou;Flicker;Team Vitality;Team Falcons PH;1 - 1;1;2;8;16:50;Expanding Rivers;Playoffs
+MSC26_PO_M02_G2;29/07/2026;Red;Lose;Flap;Explane;Uranus;Marcel;Flicker;Team Falcons PH;Team Vitality;1 - 1;0;5;2;16:50;Expanding Rivers;Playoffs
+MSC26_PO_M02_G2;29/07/2026;Red;Lose;Kyle;Jungler;Hirara;Freya;Retribution;Team Falcons PH;Team Vitality;1 - 1;3;1;2;16:50;Expanding Rivers;Playoffs
+MSC26_PO_M02_G2;29/07/2026;Red;Lose;Hadji;Midlane;Selena;Valentina;Flicker;Team Falcons PH;Team Vitality;1 - 1;3;1;5;16:50;Expanding Rivers;Playoffs
+MSC26_PO_M02_G2;29/07/2026;Red;Lose;Super Marco;Goldlane;Clint;Claude;Flicker;Team Falcons PH;Team Vitality;1 - 1;1;3;3;16:50;Expanding Rivers;Playoffs
+MSC26_PO_M02_G2;29/07/2026;Red;Lose;Owgwen;Roamer;Khaleed;Harith;Flicker;Team Falcons PH;Team Vitality;1 - 1;2;5;6;16:50;Expanding Rivers;Playoffs
+MSC26_PO_M02_G3;29/07/2026;Blue;Lose;Shogun;Explane;Barats;Esmeralda;Flicker;Team Vitality;Team Falcons PH;1 - 2;1;3;5;13:19;Expanding Rivers;Playoffs
+MSC26_PO_M02_G3;29/07/2026;Blue;Lose;Nnael;Jungler;Paquito;Selena;Retribution;Team Vitality;Team Falcons PH;1 - 2;4;4;2;13:19;Expanding Rivers;Playoffs
+MSC26_PO_M02_G3;29/07/2026;Blue;Lose;Moreno;Midlane;Eudora;Atlas;Flicker;Team Vitality;Team Falcons PH;1 - 2;2;1;4;13:19;Expanding Rivers;Playoffs
+MSC26_PO_M02_G3;29/07/2026;Blue;Lose;Emann;Goldlane;Claude;Yve;Flicker;Team Vitality;Team Falcons PH;1 - 2;1;2;5;13:19;Expanding Rivers;Playoffs
+MSC26_PO_M02_G3;29/07/2026;Blue;Lose;Finn;Roamer;Khufra;Lylia;Flicker;Team Vitality;Team Falcons PH;1 - 2;0;4;6;13:19;Expanding Rivers;Playoffs
+MSC26_PO_M02_G3;29/07/2026;Red;Win;Flap;Explane;Lapu lapu;Marcel;Flicker;Team Falcons PH;Team Vitality;2 - 1;3;2;8;13:19;Expanding Rivers;Playoffs
+MSC26_PO_M02_G3;29/07/2026;Red;Win;Kyle;Jungler;Fanny;Freya;Retribution;Team Falcons PH;Team Vitality;2 - 1;4;3;2;13:19;Expanding Rivers;Playoffs
+MSC26_PO_M02_G3;29/07/2026;Red;Win;Hadji;Midlane;Pharsa;Melissa;Purify;Team Falcons PH;Team Vitality;2 - 1;4;0;8;13:19;Expanding Rivers;Playoffs
+MSC26_PO_M02_G3;29/07/2026;Red;Win;Super Marco;Goldlane;Karrie;Harley;Purify;Team Falcons PH;Team Vitality;2 - 1;3;1;6;13:19;Expanding Rivers;Playoffs
+MSC26_PO_M02_G3;29/07/2026;Red;Win;Owgwen;Roamer;Belerick;Hirara;Flicker;Team Falcons PH;Team Vitality;2 - 1;0;2;14;13:19;Expanding Rivers;Playoffs
+MSC26_PO_M02_G4;29/07/2026;Blue;Lose;Shogun;Explane;Barats;Esmeralda;Flicker;Team Vitality;Team Falcons PH;1 - 3;0;2;1;13:52;Expanding Rivers;Playoffs
+MSC26_PO_M02_G4;29/07/2026;Blue;Lose;Nnael;Jungler;Hirara;Selena;Retribution;Team Vitality;Team Falcons PH;1 - 3;2;3;2;13:52;Expanding Rivers;Playoffs
+MSC26_PO_M02_G4;29/07/2026;Blue;Lose;Moreno;Midlane;Eudora;Atlas;Sprint;Team Vitality;Team Falcons PH;1 - 3;2;2;1;13:52;Expanding Rivers;Playoffs
+MSC26_PO_M02_G4;29/07/2026;Blue;Lose;Emann;Goldlane;Moskov;Lapu lapu;Flicker;Team Vitality;Team Falcons PH;1 - 3;1;3;1;13:52;Expanding Rivers;Playoffs
+MSC26_PO_M02_G4;29/07/2026;Blue;Lose;Finn;Roamer;Chou;Karrie;Flicker;Team Vitality;Team Falcons PH;1 - 3;0;3;3;13:52;Expanding Rivers;Playoffs
+MSC26_PO_M02_G4;29/07/2026;Red;Win;Flap;Explane;Uranus;Marcel;Purify;Team Falcons PH;Team Vitality;3 - 1;1;0;5;13:52;Expanding Rivers;Playoffs
+MSC26_PO_M02_G4;29/07/2026;Red;Win;Kyle;Jungler;Fanny;Freya;Retribution;Team Falcons PH;Team Vitality;3 - 1;6;1;3;13:52;Expanding Rivers;Playoffs
+MSC26_PO_M02_G4;29/07/2026;Red;Win;Hadji;Midlane;Phoveus;Melissa;Purify;Team Falcons PH;Team Vitality;3 - 1;2;1;7;13:52;Expanding Rivers;Playoffs
+MSC26_PO_M02_G4;29/07/2026;Red;Win;Super Marco;Goldlane;Hanabi;Badang;Aegis;Team Falcons PH;Team Vitality;3 - 1;4;1;6;13:52;Expanding Rivers;Playoffs
+MSC26_PO_M02_G4;29/07/2026;Red;Win;Owgwen;Roamer;Belerick;Brody;Flicker;Team Falcons PH;Team Vitality;3 - 1;0;2;7;13:52;Expanding Rivers;Playoffs
+MSC26_PO_M03_G1;30/07/2026;Red;Lose;Sepat;Explane;Benedetta;Paquito;Petrify;Team Vamos;Team Spirit;0 - 1;1;2;2;15:19;Flying Clouds;Playoffs
+MSC26_PO_M03_G1;30/07/2026;Red;Lose;Error404;Jungler;Guinevere;Barats;Retribution;Team Vamos;Team Spirit;0 - 1;1;3;3;15:19;Flying Clouds;Playoffs
+MSC26_PO_M03_G1;30/07/2026;Red;Lose;ClawKun;Midlane;Zhuxin;Marcel;Flicker;Team Vamos;Team Spirit;0 - 1;1;3;6;15:19;Flying Clouds;Playoffs
+MSC26_PO_M03_G1;30/07/2026;Red;Lose;Natco;Goldlane;Brody;Harith;Flicker;Team Vamos;Team Spirit;0 - 1;5;4;1;15:19;Flying Clouds;Playoffs
+MSC26_PO_M03_G1;30/07/2026;Red;Lose;Zqeef;Roamer;Atlas;Moskov;Flicker;Team Vamos;Team Spirit;0 - 1;0;4;4;15:19;Flying Clouds;Playoffs
+MSC26_PO_M03_G1;30/07/2026;Blue;Win;Kid Bomba;Explane;Esmeralda;Freya;Purify;Team Spirit;Team Vamos;1 - 0;0;2;5;15:19;Flying Clouds;Playoffs
+MSC26_PO_M03_G1;30/07/2026;Blue;Win;zaur egoist;Jungler;Hirara;Fanny;Retribution;Team Spirit;Team Vamos;1 - 0;4;0;7;15:19;Flying Clouds;Playoffs
+MSC26_PO_M03_G1;30/07/2026;Blue;Win;Sunset Lover;Midlane;Vexana;Valentina;Flicker;Team Spirit;Team Vamos;1 - 0;8;2;6;15:19;Flying Clouds;Playoffs
+MSC26_PO_M03_G1;30/07/2026;Blue;Win;Hiko;Goldlane;Claude;Arlott;Purify;Team Spirit;Team Vamos;1 - 0;1;2;8;15:19;Flying Clouds;Playoffs
+MSC26_PO_M03_G1;30/07/2026;Blue;Win;Sawo;Roamer;Belerick;Melissa;Flicker;Team Spirit;Team Vamos;1 - 0;3;2;9;15:19;Flying Clouds;Playoffs
+MSC26_PO_M03_G2;30/07/2026;Blue;Lose;Sepat;Explane;Barats;Freya;Flicker;Team Vamos;Team Spirit;0 - 2;0;5;6;13:53;Broken Walls;Playoffs
+MSC26_PO_M03_G2;30/07/2026;Blue;Lose;Error404;Jungler;Nolan;Belerick;Retribution;Team Vamos;Team Spirit;0 - 2;4;3;3;13:53;Broken Walls;Playoffs
+MSC26_PO_M03_G2;30/07/2026;Blue;Lose;ClawKun;Midlane;Zhuxin;Fanny;Flicker;Team Vamos;Team Spirit;0 - 2;2;2;4;13:53;Broken Walls;Playoffs
+MSC26_PO_M03_G2;30/07/2026;Blue;Lose;Natco;Goldlane;Brody;Lylia;Flicker;Team Vamos;Team Spirit;0 - 2;1;3;5;13:53;Broken Walls;Playoffs
+MSC26_PO_M03_G2;30/07/2026;Blue;Lose;Zqeef;Roamer;Marcel;Gord;Revitalize;Team Vamos;Team Spirit;0 - 2;1;4;3;13:53;Broken Walls;Playoffs
+MSC26_PO_M03_G2;30/07/2026;Red;Win;Kid Bomba;Explane;Uranus;Valentina;Purify;Team Spirit;Team Vamos;2 - 0;3;1;8;13:53;Broken Walls;Playoffs
+MSC26_PO_M03_G2;30/07/2026;Red;Win;zaur egoist;Jungler;Hirara;Atlas;Retribution;Team Spirit;Team Vamos;2 - 0;7;1;6;13:53;Broken Walls;Playoffs
+MSC26_PO_M03_G2;30/07/2026;Red;Win;Sunset Lover;Midlane;Eudora;Esmeralda;Flicker;Team Spirit;Team Vamos;2 - 0;2;1;12;13:53;Broken Walls;Playoffs
+MSC26_PO_M03_G2;30/07/2026;Red;Win;Hiko;Goldlane;Paquito;Melissa;Flicker;Team Spirit;Team Vamos;2 - 0;5;2;3;13:53;Broken Walls;Playoffs
+MSC26_PO_M03_G2;30/07/2026;Red;Win;Sawo;Roamer;Mathilda;Clint;Flicker;Team Spirit;Team Vamos;2 - 0;0;3;13;13:53;Broken Walls;Playoffs
+MSC26_PO_M03_G3;30/07/2026;Red;Lose;Sepat;Explane;Esmeralda;Paquito;Purify;Team Vamos;Team Spirit;0 - 3;0;3;4;22:14;Dangerous Grass;Playoffs
+MSC26_PO_M03_G3;30/07/2026;Red;Lose;Error404;Jungler;Fanny;Barats;Retribution;Team Vamos;Team Spirit;0 - 3;6;1;2;22:14;Dangerous Grass;Playoffs
+MSC26_PO_M03_G3;30/07/2026;Red;Lose;ClawKun;Midlane;Lylia;Belerick;Purify;Team Vamos;Team Spirit;0 - 3;1;0;6;22:14;Dangerous Grass;Playoffs
+MSC26_PO_M03_G3;30/07/2026;Red;Lose;Natco;Goldlane;Harith;Eudora;Purify;Team Vamos;Team Spirit;0 - 3;3;4;3;22:14;Dangerous Grass;Playoffs
+MSC26_PO_M03_G3;30/07/2026;Red;Lose;Zqeef;Roamer;Gatot Kaca;Vexana;Revitalize;Team Vamos;Team Spirit;0 - 3;1;2;5;22:14;Dangerous Grass;Playoffs
+MSC26_PO_M03_G3;30/07/2026;Blue;Win;Kid Bomba;Explane;Ruby;Freya;Flicker;Team Spirit;Team Vamos;3 - 0;1;2;6;22:14;Dangerous Grass;Playoffs
+MSC26_PO_M03_G3;30/07/2026;Blue;Win;zaur egoist;Jungler;Harley;Valentina;Retribution;Team Spirit;Team Vamos;3 - 0;2;4;5;22:14;Dangerous Grass;Playoffs
+MSC26_PO_M03_G3;30/07/2026;Blue;Win;Sunset Lover;Midlane;Selena;Hirara;Flicker;Team Spirit;Team Vamos;3 - 0;2;3;5;22:14;Dangerous Grass;Playoffs
+MSC26_PO_M03_G3;30/07/2026;Blue;Win;Hiko;Goldlane;Melissa;Chou;Flicker;Team Spirit;Team Vamos;3 - 0;4;0;4;22:14;Dangerous Grass;Playoffs
+MSC26_PO_M03_G3;30/07/2026;Blue;Win;Sawo;Roamer;Atlas;Gloo;Flicker;Team Spirit;Team Vamos;3 - 0;1;2;7;22:14;Dangerous Grass;Playoffs
+MSC26_PO_M04_G1;30/07/2026;Blue;Win;Lunar;Explane;Barats;Marcel;Flicker;Aurora Gaming;ONIC;1 - 0;0;1;9;14:12;Broken Walls;Playoffs
+MSC26_PO_M04_G1;30/07/2026;Blue;Win;Tienzy;Jungler;Hirara;Atlas;Retribution;Aurora Gaming;ONIC;1 - 0;6;0;2;14:12;Broken Walls;Playoffs
+MSC26_PO_M04_G1;30/07/2026;Blue;Win;Rosa;Midlane;Luo Yi;Eudora;Flicker;Aurora Gaming;ONIC;1 - 0;1;0;8;14:12;Broken Walls;Playoffs
+MSC26_PO_M04_G1;30/07/2026;Blue;Win;Sigibum;Goldlane;Paquito;Uranus;Flicker;Aurora Gaming;ONIC;1 - 0;3;0;4;14:12;Broken Walls;Playoffs
+MSC26_PO_M04_G1;30/07/2026;Blue;Win;Pagu;Roamer;Chou;Lapu lapu;Flicker;Aurora Gaming;ONIC;1 - 0;0;1;7;14:12;Broken Walls;Playoffs
+MSC26_PO_M04_G1;30/07/2026;Red;Lose;Lutpiii;Explane;Esmeralda;Selena;Purify;ONIC;Aurora Gaming;0 - 1;1;1;0;14:12;Broken Walls;Playoffs
+MSC26_PO_M04_G1;30/07/2026;Red;Lose;Kairi;Jungler;Harley;Freya;Retribution;ONIC;Aurora Gaming;0 - 1;1;2;1;14:12;Broken Walls;Playoffs
+MSC26_PO_M04_G1;30/07/2026;Red;Lose;Sanz;Midlane;Valentina;Fanny;Flicker;ONIC;Aurora Gaming;0 - 1;0;3;0;14:12;Broken Walls;Playoffs
+MSC26_PO_M04_G1;30/07/2026;Red;Lose;Kelra;Goldlane;Claude;Rafaela;Purify;ONIC;Aurora Gaming;0 - 1;0;1;0;14:12;Broken Walls;Playoffs
+MSC26_PO_M04_G1;30/07/2026;Red;Lose;Kiboy;Roamer;Belerick;Zhuxin;Flicker;ONIC;Aurora Gaming;0 - 1;0;3;2;14:12;Broken Walls;Playoffs
+MSC26_PO_M04_G2;30/07/2026;Red;Lose;Lunar;Explane;Uranus;Freya;Purify;Aurora Gaming;ONIC;1 - 1;0;3;3;11:31;Flying Clouds;Playoffs
+MSC26_PO_M04_G2;30/07/2026;Red;Lose;Tienzy;Jungler;Lukas;Valentina;Retribution;Aurora Gaming;ONIC;1 - 1;3;3;2;11:31;Flying Clouds;Playoffs
+MSC26_PO_M04_G2;30/07/2026;Red;Lose;Rosa;Midlane;Rafaela;Barats;Flicker;Aurora Gaming;ONIC;1 - 1;0;2;5;11:31;Flying Clouds;Playoffs
+MSC26_PO_M04_G2;30/07/2026;Red;Lose;Sigibum;Goldlane;Harith;Chou;Purify;Aurora Gaming;ONIC;1 - 1;0;2;3;11:31;Flying Clouds;Playoffs
+MSC26_PO_M04_G2;30/07/2026;Red;Lose;Pagu;Roamer;Belerick;Melissa;Flicker;Aurora Gaming;ONIC;1 - 1;2;5;5;11:31;Flying Clouds;Playoffs
+MSC26_PO_M04_G2;30/07/2026;Blue;Win;Lutpiii;Explane;Esmeralda;Selena;Purify;ONIC;Aurora Gaming;1 - 1;1;1;7;11:31;Flying Clouds;Playoffs
+MSC26_PO_M04_G2;30/07/2026;Blue;Win;Kairi;Jungler;Hirara;Marcel;Retribution;ONIC;Aurora Gaming;1 - 1;2;1;5;11:31;Flying Clouds;Playoffs
+MSC26_PO_M04_G2;30/07/2026;Blue;Win;Sanz;Midlane;Zhuxin;Fanny;Flicker;ONIC;Aurora Gaming;1 - 1;0;0;14;11:31;Flying Clouds;Playoffs
+MSC26_PO_M04_G2;30/07/2026;Blue;Win;Kelra;Goldlane;Granger;Paquito;Flicker;ONIC;Aurora Gaming;1 - 1;12;0;1;11:31;Flying Clouds;Playoffs
+MSC26_PO_M04_G2;30/07/2026;Blue;Win;Kiboy;Roamer;Atlas;Harley;Flicker;ONIC;Aurora Gaming;1 - 1;0;3;9;11:31;Flying Clouds;Playoffs
+MSC26_PO_M04_G3;30/07/2026;Blue;Win;Lunar;Explane;Barats;Marcel;Flicker;Aurora Gaming;ONIC;2 - 1;2;2;9;12:59;Broken Walls;Playoffs
+MSC26_PO_M04_G3;30/07/2026;Blue;Win;Tienzy;Jungler;Paquito;Atlas;Retribution;Aurora Gaming;ONIC;2 - 1;10;1;1;12:59;Broken Walls;Playoffs
+MSC26_PO_M04_G3;30/07/2026;Blue;Win;Rosa;Midlane;Eudora;Zhuxin;Flicker;Aurora Gaming;ONIC;2 - 1;1;1;10;12:59;Broken Walls;Playoffs
+MSC26_PO_M04_G3;30/07/2026;Blue;Win;Sigibum;Goldlane;Freya;Karrie;Flicker;Aurora Gaming;ONIC;2 - 1;3;1;10;12:59;Broken Walls;Playoffs
+MSC26_PO_M04_G3;30/07/2026;Blue;Win;Pagu;Roamer;Minotaur;Lylia;Flicker;Aurora Gaming;ONIC;2 - 1;2;0;14;12:59;Broken Walls;Playoffs
+MSC26_PO_M04_G3;30/07/2026;Red;Lose;Lutpiii;Explane;Lapu lapu;Selena;Flicker;ONIC;Aurora Gaming;1 - 2;1;4;4;12:59;Broken Walls;Playoffs
+MSC26_PO_M04_G3;30/07/2026;Red;Lose;Kairi;Jungler;Nolan;Fanny;Retribution;ONIC;Aurora Gaming;1 - 2;1;5;4;12:59;Broken Walls;Playoffs
+MSC26_PO_M04_G3;30/07/2026;Red;Lose;Sanz;Midlane;Pharsa;Hirara;Purify;ONIC;Aurora Gaming;1 - 2;2;2;2;12:59;Broken Walls;Playoffs
+MSC26_PO_M04_G3;30/07/2026;Red;Lose;Kelra;Goldlane;Esmeralda;Guinevere;Purify;ONIC;Aurora Gaming;1 - 2;1;2;1;12:59;Broken Walls;Playoffs
+MSC26_PO_M04_G3;30/07/2026;Red;Lose;Kiboy;Roamer;Belerick;Yi Sunshin;Revitalize;ONIC;Aurora Gaming;1 - 2;0;5;4;12:59;Broken Walls;Playoffs
+MSC26_PO_M04_G4;30/07/2026;Red;Lose;Lunar;Explane;Hylos;Freya;Revitalize;Aurora Gaming;ONIC;2 - 2;0;2;5;22:07;Dangerous Grass;Playoffs
+MSC26_PO_M04_G4;30/07/2026;Red;Lose;Tienzy;Jungler;Paquito;Marcel;Retribution;Aurora Gaming;ONIC;2 - 2;4;3;2;22:07;Dangerous Grass;Playoffs
+MSC26_PO_M04_G4;30/07/2026;Red;Lose;Rosa;Midlane;Eudora;Atlas;Flicker;Aurora Gaming;ONIC;2 - 2;0;1;5;22:07;Dangerous Grass;Playoffs
+MSC26_PO_M04_G4;30/07/2026;Red;Lose;Sigibum;Goldlane;Harith;Chou;Purify;Aurora Gaming;ONIC;2 - 2;2;3;4;22:07;Dangerous Grass;Playoffs
+MSC26_PO_M04_G4;30/07/2026;Red;Lose;Pagu;Roamer;Belerick;Granger;Flicker;Aurora Gaming;ONIC;2 - 2;1;5;4;22:07;Dangerous Grass;Playoffs
+MSC26_PO_M04_G4;30/07/2026;Blue;Win;Lutpiii;Explane;Uranus;Selena;Purify;ONIC;Aurora Gaming;2 - 2;0;1;10;22:07;Dangerous Grass;Playoffs
+MSC26_PO_M04_G4;30/07/2026;Blue;Win;Kairi;Jungler;Hirara;Barats;Retribution;ONIC;Aurora Gaming;2 - 2;8;0;4;22:07;Dangerous Grass;Playoffs
+MSC26_PO_M04_G4;30/07/2026;Blue;Win;Sanz;Midlane;Zhuxin;Fanny;Flicker;ONIC;Aurora Gaming;2 - 2;2;1;11;22:07;Dangerous Grass;Playoffs
+MSC26_PO_M04_G4;30/07/2026;Blue;Win;Kelra;Goldlane;Brody;Esmeralda;Flicker;ONIC;Aurora Gaming;2 - 2;4;2;7;22:07;Dangerous Grass;Playoffs
+MSC26_PO_M04_G4;30/07/2026;Blue;Win;Kiboy;Roamer;Gatot Kaca;Hilda;Revitalize;ONIC;Aurora Gaming;2 - 2;0;3;10;22:07;Dangerous Grass;Playoffs
+MSC26_PO_M04_G5;30/07/2026;Blue;Lose;Lunar;Explane;Uranus;Marcel;Purify;Aurora Gaming;ONIC;2 - 3;1;1;5;18:03;Broken Walls;Playoffs
+MSC26_PO_M04_G5;30/07/2026;Blue;Lose;Tienzy;Jungler;Hirara;Atlas;Retribution;Aurora Gaming;ONIC;2 - 3;5;3;2;18:03;Broken Walls;Playoffs
+MSC26_PO_M04_G5;30/07/2026;Blue;Lose;Rosa;Midlane;Eudora;Zhuxin;Flicker;Aurora Gaming;ONIC;2 - 3;1;5;3;18:03;Broken Walls;Playoffs
+MSC26_PO_M04_G5;30/07/2026;Blue;Lose;Sigibum;Goldlane;Claude;Brody;Purify;Aurora Gaming;ONIC;2 - 3;0;3;3;18:03;Broken Walls;Playoffs
+MSC26_PO_M04_G5;30/07/2026;Blue;Lose;Pagu;Roamer;Chou;Minotaur;Flicker;Aurora Gaming;ONIC;2 - 3;0;4;3;18:03;Broken Walls;Playoffs
+MSC26_PO_M04_G5;30/07/2026;Red;Win;Lutpiii;Explane;Barats;Selena;Flicker;ONIC;Aurora Gaming;3 - 2;0;4;12;18:03;Broken Walls;Playoffs
+MSC26_PO_M04_G5;30/07/2026;Red;Win;Kairi;Jungler;Fanny;Freya;Retribution;ONIC;Aurora Gaming;3 - 2;8;1;6;18:03;Broken Walls;Playoffs
+MSC26_PO_M04_G5;30/07/2026;Red;Win;Sanz;Midlane;Valentina;Paquito;Flicker;ONIC;Aurora Gaming;3 - 2;3;0;11;18:03;Broken Walls;Playoffs
+MSC26_PO_M04_G5;30/07/2026;Red;Win;Kelra;Goldlane;Harith;Luo Yi;Purify;ONIC;Aurora Gaming;3 - 2;5;0;7;18:03;Broken Walls;Playoffs
+MSC26_PO_M04_G5;30/07/2026;Red;Win;Kiboy;Roamer;Belerick;Melissa;Flicker;ONIC;Aurora Gaming;3 - 2;0;2;13;18:03;Broken Walls;Playoffs
+MSC26_PO_M05_G1;31/07/2026;Red;Lose;Flap;Explane;Barats;Freya;Flicker;Team Falcons PH;Yangon Galacticos;0 - 1;1;4;2;13:38;Dangerous Grass;Playoffs
+MSC26_PO_M05_G1;31/07/2026;Red;Lose;Kyle;Jungler;Nolan;Atlas;Retribution;Team Falcons PH;Yangon Galacticos;0 - 1;1;3;1;13:38;Dangerous Grass;Playoffs
+MSC26_PO_M05_G1;31/07/2026;Red;Lose;Hadji;Midlane;Selena;Marcel;Flicker;Team Falcons PH;Yangon Galacticos;0 - 1;0;2;2;13:38;Dangerous Grass;Playoffs
+MSC26_PO_M05_G1;31/07/2026;Red;Lose;Super Marco;Goldlane;Harith;Carmilla;Purify;Team Falcons PH;Yangon Galacticos;0 - 1;1;2;1;13:38;Dangerous Grass;Playoffs
+MSC26_PO_M05_G1;31/07/2026;Red;Lose;Owgwen;Roamer;Hylos;Gloo;Revitalize;Team Falcons PH;Yangon Galacticos;0 - 1;0;6;3;13:38;Dangerous Grass;Playoffs
+MSC26_PO_M05_G1;31/07/2026;Blue;Win;Ying;Explane;Arlott;Fanny;Flicker;Yangon Galacticos;Team Falcons PH;1 - 0;3;0;13;13:38;Dangerous Grass;Playoffs
+MSC26_PO_M05_G1;31/07/2026;Blue;Win;Hannn;Jungler;Hirara;Belerick;Retribution;Yangon Galacticos;Team Falcons PH;1 - 0;8;0;8;13:38;Dangerous Grass;Playoffs
+MSC26_PO_M05_G1;31/07/2026;Blue;Win;Kaize;Midlane;Zhuxin;Phoveus;Purify;Yangon Galacticos;Team Falcons PH;1 - 0;3;0;13;13:38;Dangerous Grass;Playoffs
+MSC26_PO_M05_G1;31/07/2026;Blue;Win;Sanji(MM);Goldlane;Claude;Gatot Kaca;Purify;Yangon Galacticos;Team Falcons PH;1 - 0;1;0;9;13:38;Dangerous Grass;Playoffs
+MSC26_PO_M05_G1;31/07/2026;Blue;Win;Blink;Roamer;Badang;Minotaur;Flicker;Yangon Galacticos;Team Falcons PH;1 - 0;2;3;9;13:38;Dangerous Grass;Playoffs
+MSC26_PO_M05_G2;31/07/2026;Blue;Lose;Flap;Explane;Uranus;Barats;Purify;Team Falcons PH;Yangon Galacticos;0 - 2;0;2;2;15:08;Flying Clouds;Playoffs
+MSC26_PO_M05_G2;31/07/2026;Blue;Lose;Kyle;Jungler;Nolan;Valentina;Retribution;Team Falcons PH;Yangon Galacticos;0 - 2;1;2;3;15:08;Flying Clouds;Playoffs
+MSC26_PO_M05_G2;31/07/2026;Blue;Lose;Hadji;Midlane;Selena;Marcel;Flicker;Team Falcons PH;Yangon Galacticos;0 - 2;0;2;2;15:08;Flying Clouds;Playoffs
+MSC26_PO_M05_G2;31/07/2026;Blue;Lose;Super Marco;Goldlane;Moskov;Gloo;Purify;Team Falcons PH;Yangon Galacticos;0 - 2;1;3;0;15:08;Flying Clouds;Playoffs
+MSC26_PO_M05_G2;31/07/2026;Blue;Lose;Owgwen;Roamer;Belerick;Esmeralda;Flicker;Team Falcons PH;Yangon Galacticos;0 - 2;2;4;2;15:08;Flying Clouds;Playoffs
+MSC26_PO_M05_G2;31/07/2026;Red;Win;Ying;Explane;Ruby;Fanny;Flicker;Yangon Galacticos;Team Falcons PH;2 - 0;1;1;6;15:08;Flying Clouds;Playoffs
+MSC26_PO_M05_G2;31/07/2026;Red;Win;Hannn;Jungler;Hirara;Atlas;Retribution;Yangon Galacticos;Team Falcons PH;2 - 0;6;2;3;15:08;Flying Clouds;Playoffs
+MSC26_PO_M05_G2;31/07/2026;Red;Win;Kaize;Midlane;Eudora;Freya;Flicker;Yangon Galacticos;Team Falcons PH;2 - 0;1;1;9;15:08;Flying Clouds;Playoffs
+MSC26_PO_M05_G2;31/07/2026;Red;Win;Sanji(MM);Goldlane;Claude;Clint;Purify;Yangon Galacticos;Team Falcons PH;2 - 0;3;0;8;15:08;Flying Clouds;Playoffs
+MSC26_PO_M05_G2;31/07/2026;Red;Win;Blink;Roamer;Mathilda;Zhuxin;Flicker;Yangon Galacticos;Team Falcons PH;2 - 0;2;0;11;15:08;Flying Clouds;Playoffs
+MSC26_PO_M05_G3;31/07/2026;Blue;Win;Flap;Explane;Esmeralda;Barats;Flicker;Team Falcons PH;Yangon Galacticos;1 - 2;5;0;8;13:33;Broken Walls;Playoffs
+MSC26_PO_M05_G3;31/07/2026;Blue;Win;Kyle;Jungler;Hirara;Eudora;Retribution;Team Falcons PH;Yangon Galacticos;1 - 2;4;0;10;13:33;Broken Walls;Playoffs
+MSC26_PO_M05_G3;31/07/2026;Blue;Win;Hadji;Midlane;Pharsa;Marcel;Flicker;Team Falcons PH;Yangon Galacticos;1 - 2;3;2;7;13:33;Broken Walls;Playoffs
+MSC26_PO_M05_G3;31/07/2026;Blue;Win;Super Marco;Goldlane;Claude;Guinevere;Flicker;Team Falcons PH;Yangon Galacticos;1 - 2;4;0;6;13:33;Broken Walls;Playoffs
+MSC26_PO_M05_G3;31/07/2026;Blue;Win;Owgwen;Roamer;Gloo;Nolan;Flicker;Team Falcons PH;Yangon Galacticos;1 - 2;1;0;8;13:33;Broken Walls;Playoffs
+MSC26_PO_M05_G3;31/07/2026;Red;Lose;Ying;Explane;Uranus;Fanny;Flicker;Yangon Galacticos;Team Falcons PH;2 - 1;0;3;0;13:33;Broken Walls;Playoffs
+MSC26_PO_M05_G3;31/07/2026;Red;Lose;Hannn;Jungler;Harley;Belerick;Retribution;Yangon Galacticos;Team Falcons PH;2 - 1;1;6;1;13:33;Broken Walls;Playoffs
+MSC26_PO_M05_G3;31/07/2026;Red;Lose;Kaize;Midlane;Valentina;Freya;Flicker;Yangon Galacticos;Team Falcons PH;2 - 1;1;1;1;13:33;Broken Walls;Playoffs
+MSC26_PO_M05_G3;31/07/2026;Red;Lose;Sanji(MM);Goldlane;Moskov;Selena;Flicker;Yangon Galacticos;Team Falcons PH;2 - 1;0;3;0;13:33;Broken Walls;Playoffs
+MSC26_PO_M05_G3;31/07/2026;Red;Lose;Blink;Roamer;Carmilla;Zhuxin;Revitalize;Yangon Galacticos;Team Falcons PH;2 - 1;0;4;1;13:33;Broken Walls;Playoffs
+MSC26_PO_M05_G4;31/07/2026;Red;Win;Flap;Explane;Esmeralda;Freya;Purify;Team Falcons PH;Yangon Galacticos;2 - 2;2;1;9;14:11;Expanding Rivers;Playoffs
+MSC26_PO_M05_G4;31/07/2026;Red;Win;Kyle;Jungler;Harley;Hirara;Retribution;Team Falcons PH;Yangon Galacticos;2 - 2;4;1;8;14:11;Expanding Rivers;Playoffs
+MSC26_PO_M05_G4;31/07/2026;Red;Win;Hadji;Midlane;Zhuxin;Marcel;Purify;Team Falcons PH;Yangon Galacticos;2 - 2;3;0;10;14:11;Expanding Rivers;Playoffs
+MSC26_PO_M05_G4;31/07/2026;Red;Win;Super Marco;Goldlane;Claude;Nolan;Purify;Team Falcons PH;Yangon Galacticos;2 - 2;4;0;9;14:11;Expanding Rivers;Playoffs
+MSC26_PO_M05_G4;31/07/2026;Red;Win;Owgwen;Roamer;Gloo;Guinevere;Flicker;Team Falcons PH;Yangon Galacticos;2 - 2;2;3;8;14:11;Expanding Rivers;Playoffs
+MSC26_PO_M05_G4;31/07/2026;Blue;Lose;Ying;Explane;Uranus;Fanny;Flicker;Yangon Galacticos;Team Falcons PH;2 - 2;0;2;2;14:11;Expanding Rivers;Playoffs
+MSC26_PO_M05_G4;31/07/2026;Blue;Lose;Hannn;Jungler;Suyou;Valentina;Retribution;Yangon Galacticos;Team Falcons PH;2 - 2;3;4;1;14:11;Expanding Rivers;Playoffs
+MSC26_PO_M05_G4;31/07/2026;Blue;Lose;Kaize;Midlane;Eudora;Belerick;Flicker;Yangon Galacticos;Team Falcons PH;2 - 2;1;2;2;14:11;Expanding Rivers;Playoffs
+MSC26_PO_M05_G4;31/07/2026;Blue;Lose;Sanji(MM);Goldlane;Clint;Akai;Flicker;Yangon Galacticos;Team Falcons PH;2 - 2;1;2;1;14:11;Expanding Rivers;Playoffs
+MSC26_PO_M05_G4;31/07/2026;Blue;Lose;Blink;Roamer;Atlas;Joy;Flicker;Yangon Galacticos;Team Falcons PH;2 - 2;0;5;3;14:11;Expanding Rivers;Playoffs
+MSC26_PO_M05_G5;31/07/2026;Red;Lose;Flap;Explane;Phoveus;Freya;Flicker;Team Falcons PH;Yangon Galacticos;2 - 3;0;3;3;18:44;Dangerous Grass;Playoffs
+MSC26_PO_M05_G5;31/07/2026;Red;Lose;Kyle;Jungler;Harley;Hirara;Retribution;Team Falcons PH;Yangon Galacticos;2 - 3;4;4;0;18:44;Dangerous Grass;Playoffs
+MSC26_PO_M05_G5;31/07/2026;Red;Lose;Hadji;Midlane;Zetian;Marcel;Flicker;Team Falcons PH;Yangon Galacticos;2 - 3;2;3;4;18:44;Dangerous Grass;Playoffs
+MSC26_PO_M05_G5;31/07/2026;Red;Lose;Super Marco;Goldlane;Claude;Mathilda;Purify;Team Falcons PH;Yangon Galacticos;2 - 3;1;2;5;18:44;Dangerous Grass;Playoffs
+MSC26_PO_M05_G5;31/07/2026;Red;Lose;Owgwen;Roamer;Gloo;Arlott;Flicker;Team Falcons PH;Yangon Galacticos;2 - 3;0;3;5;18:44;Dangerous Grass;Playoffs
+MSC26_PO_M05_G5;31/07/2026;Blue;Win;Ying;Explane;Sora;Fanny;Flicker;Yangon Galacticos;Team Falcons PH;3 - 2;1;1;7;18:44;Dangerous Grass;Playoffs
+MSC26_PO_M05_G5;31/07/2026;Blue;Win;Hannn;Jungler;Guinevere;Belerick;Retribution;Yangon Galacticos;Team Falcons PH;3 - 2;0;2;9;18:44;Dangerous Grass;Playoffs
+MSC26_PO_M05_G5;31/07/2026;Blue;Win;Kaize;Midlane;Zhuxin;Atlas;Flicker;Yangon Galacticos;Team Falcons PH;3 - 2;11;0;2;18:44;Dangerous Grass;Playoffs
+MSC26_PO_M05_G5;31/07/2026;Blue;Win;Sanji(MM);Goldlane;Moskov;Yve;Flicker;Yangon Galacticos;Team Falcons PH;3 - 2;1;2;11;18:44;Dangerous Grass;Playoffs
+MSC26_PO_M05_G5;31/07/2026;Blue;Win;Blink;Roamer;Khaleed;Selena;Flicker;Yangon Galacticos;Team Falcons PH;3 - 2;2;2;6;18:44;Dangerous Grass;Playoffs
+MSC26_PO_M06_G1;31/07/2026;Red;Win;Kid Bomba;Explane;Sora;Uranus;Flicker;Team Spirit;ONIC;1 - 0;1;3;9;19:24;Broken Walls;Playoffs
+MSC26_PO_M06_G1;31/07/2026;Red;Win;zaur egoist;Jungler;Harley;Freya;Retribution;Team Spirit;ONIC;1 - 0;3;0;6;19:24;Broken Walls;Playoffs
+MSC26_PO_M06_G1;31/07/2026;Red;Win;Sunset Lover;Midlane;Eudora;Fanny;Flicker;Team Spirit;ONIC;1 - 0;2;1;3;19:24;Broken Walls;Playoffs
+MSC26_PO_M06_G1;31/07/2026;Red;Win;Hiko;Goldlane;Paquito;Harith;Flicker;Team Spirit;ONIC;1 - 0;5;1;4;19:24;Broken Walls;Playoffs
+MSC26_PO_M06_G1;31/07/2026;Red;Win;Sawo;Roamer;Atlas;Clint;Flicker;Team Spirit;ONIC;1 - 0;0;3;9;19:24;Broken Walls;Playoffs
+MSC26_PO_M06_G1;31/07/2026;Blue;Lose;Lutpiii;Explane;Belerick;Selena;Flicker;ONIC;Team Spirit;0 - 1;1;4;3;19:24;Broken Walls;Playoffs
+MSC26_PO_M06_G1;31/07/2026;Blue;Lose;Kairi;Jungler;Hirara;Marcel;Retribution;ONIC;Team Spirit;0 - 1;6;1;2;19:24;Broken Walls;Playoffs
+MSC26_PO_M06_G1;31/07/2026;Blue;Lose;Sanz;Midlane;Zhuxin;Barats;Purify;ONIC;Team Spirit;0 - 1;0;0;8;19:24;Broken Walls;Playoffs
+MSC26_PO_M06_G1;31/07/2026;Blue;Lose;Kelra;Goldlane;Claude;Esmeralda;Purify;ONIC;Team Spirit;0 - 1;1;1;7;19:24;Broken Walls;Playoffs
+MSC26_PO_M06_G1;31/07/2026;Blue;Lose;Kiboy;Roamer;Chou;Valentina;Flicker;ONIC;Team Spirit;0 - 1;0;5;3;19:24;Broken Walls;Playoffs
+MSC26_PO_M06_G2;31/07/2026;Red;Win;Kid Bomba;Explane;Barats;Uranus;Flicker;Team Spirit;ONIC;2 - 0;1;1;9;11:51;Broken Walls;Playoffs
+MSC26_PO_M06_G2;31/07/2026;Red;Win;zaur egoist;Jungler;Harley;Freya;Retribution;Team Spirit;ONIC;2 - 0;5;1;6;11:51;Broken Walls;Playoffs
+MSC26_PO_M06_G2;31/07/2026;Red;Win;Sunset Lover;Midlane;Eudora;Fanny;Flicker;Team Spirit;ONIC;2 - 0;2;1;8;11:51;Broken Walls;Playoffs
+MSC26_PO_M06_G2;31/07/2026;Red;Win;Hiko;Goldlane;Claude;Harith;Purify;Team Spirit;ONIC;2 - 0;4;0;6;11:51;Broken Walls;Playoffs
+MSC26_PO_M06_G2;31/07/2026;Red;Win;Sawo;Roamer;Atlas;Belerick;Flicker;Team Spirit;ONIC;2 - 0;1;1;7;11:51;Broken Walls;Playoffs
+MSC26_PO_M06_G2;31/07/2026;Blue;Lose;Lutpiii;Explane;Esmeralda;Selena;Purify;ONIC;Team Spirit;0 - 2;0;4;2;11:51;Broken Walls;Playoffs
+MSC26_PO_M06_G2;31/07/2026;Blue;Lose;Kairi;Jungler;Hirara;Paquito;Retribution;ONIC;Team Spirit;0 - 2;1;1;2;11:51;Broken Walls;Playoffs
+MSC26_PO_M06_G2;31/07/2026;Blue;Lose;Sanz;Midlane;Valentina;Marcel;Flicker;ONIC;Team Spirit;0 - 2;1;2;3;11:51;Broken Walls;Playoffs
+MSC26_PO_M06_G2;31/07/2026;Blue;Lose;Kelra;Goldlane;Moskov;Melissa;Purify;ONIC;Team Spirit;0 - 2;1;2;1;11:51;Broken Walls;Playoffs
+MSC26_PO_M06_G2;31/07/2026;Blue;Lose;Kiboy;Roamer;Gloo;Zhuxin;Flicker;ONIC;Team Spirit;0 - 2;1;4;2;11:51;Broken Walls;Playoffs
+MSC26_PO_M06_G3;31/07/2026;Red;Win;Kid Bomba;Explane;Barats;Freya;Flicker;Team Spirit;ONIC;3 - 0;1;2;8;13:57;Dangerous Grass;Playoffs
+MSC26_PO_M06_G3;31/07/2026;Red;Win;zaur egoist;Jungler;Yi Sunshin;Uranus;Retribution;Team Spirit;ONIC;3 - 0;4;0;6;13:57;Dangerous Grass;Playoffs
+MSC26_PO_M06_G3;31/07/2026;Red;Win;Sunset Lover;Midlane;Valentina;Fanny;Flicker;Team Spirit;ONIC;3 - 0;0;2;9;13:57;Dangerous Grass;Playoffs
+MSC26_PO_M06_G3;31/07/2026;Red;Win;Hiko;Goldlane;Clint;Lapu lapu;Flicker;Team Spirit;ONIC;3 - 0;5;1;4;13:57;Dangerous Grass;Playoffs
+MSC26_PO_M06_G3;31/07/2026;Red;Win;Sawo;Roamer;Atlas;Alice;Flicker;Team Spirit;ONIC;3 - 0;2;5;10;13:57;Dangerous Grass;Playoffs
+MSC26_PO_M06_G3;31/07/2026;Blue;Lose;Lutpiii;Explane;Hylos;Paquito;Revitalize;ONIC;Team Spirit;0 - 3;1;4;7;13:57;Dangerous Grass;Playoffs
+MSC26_PO_M06_G3;31/07/2026;Blue;Lose;Kairi;Jungler;Hirara;Marcel;Retribution;ONIC;Team Spirit;0 - 3;6;3;2;13:57;Dangerous Grass;Playoffs
+MSC26_PO_M06_G3;31/07/2026;Blue;Lose;Sanz;Midlane;Gord;Harley;Flicker;ONIC;Team Spirit;0 - 3;1;2;8;13:57;Dangerous Grass;Playoffs
+MSC26_PO_M06_G3;31/07/2026;Blue;Lose;Kelra;Goldlane;Harith;Esmeralda;Purify;ONIC;Team Spirit;0 - 3;2;1;2;13:57;Dangerous Grass;Playoffs
+MSC26_PO_M06_G3;31/07/2026;Blue;Lose;Kiboy;Roamer;Belerick;Eudora;Flicker;ONIC;Team Spirit;0 - 3;0;2;7;13:57;Dangerous Grass;Playoffs
+MSC26_PO_M07_G1;01/08/2026;Blue;Win;Lutpiii;Explane;Phoveus;Atlas;Flicker;ONIC;Team Falcons PH;1 - 0;3;0;10;11:05;Flying Clouds;Playoffs
+MSC26_PO_M07_G1;01/08/2026;Blue;Win;Kairi;Jungler;Harley;Selena;Retribution;ONIC;Team Falcons PH;1 - 0;6;0;7;11:05;Flying Clouds;Playoffs
+MSC26_PO_M07_G1;01/08/2026;Blue;Win;Sanz;Midlane;Valentina;Barats;Flicker;ONIC;Team Falcons PH;1 - 0;0;1;16;11:05;Flying Clouds;Playoffs
+MSC26_PO_M07_G1;01/08/2026;Blue;Win;Kelra;Goldlane;Granger;Claude;Flicker;ONIC;Team Falcons PH;1 - 0;9;0;4;11:05;Flying Clouds;Playoffs
+MSC26_PO_M07_G1;01/08/2026;Blue;Win;Kiboy;Roamer;Marcel;Eudora;Revitalize;ONIC;Team Falcons PH;1 - 0;2;0;12;11:05;Flying Clouds;Playoffs
+MSC26_PO_M07_G1;01/08/2026;Red;Lose;Flap;Explane;Esmeralda;Freya;Flicker;Team Falcons PH;ONIC;0 - 1;1;2;0;11:05;Flying Clouds;Playoffs
+MSC26_PO_M07_G1;01/08/2026;Red;Lose;Kyle;Jungler;Hirara;Fanny;Retribution;Team Falcons PH;ONIC;0 - 1;0;3;0;11:05;Flying Clouds;Playoffs
+MSC26_PO_M07_G1;01/08/2026;Red;Lose;Hadji;Midlane;Zhuxin;Uranus;Flicker;Team Falcons PH;ONIC;0 - 1;0;6;1;11:05;Flying Clouds;Playoffs
+MSC26_PO_M07_G1;01/08/2026;Red;Lose;Super Marco;Goldlane;Clint;Ruby;Flicker;Team Falcons PH;ONIC;0 - 1;0;4;0;11:05;Flying Clouds;Playoffs
+MSC26_PO_M07_G1;01/08/2026;Red;Lose;Owgwen;Roamer;Gloo;Sora;Flicker;Team Falcons PH;ONIC;0 - 1;0;5;0;11:05;Flying Clouds;Playoffs
+MSC26_PO_M07_G2;01/08/2026;Red;Win;Lutpiii;Explane;Uranus;Freya;Flicker;ONIC;Team Falcons PH;2 - 0;2;0;4;10:13;Expanding Rivers;Playoffs
+MSC26_PO_M07_G2;01/08/2026;Red;Win;Kairi;Jungler;Hirara;Selena;Retribution;ONIC;Team Falcons PH;2 - 0;5;0;5;10:13;Expanding Rivers;Playoffs
+MSC26_PO_M07_G2;01/08/2026;Red;Win;Sanz;Midlane;Vexana;Valentina;Flicker;ONIC;Team Falcons PH;2 - 0;1;1;6;10:13;Expanding Rivers;Playoffs
+MSC26_PO_M07_G2;01/08/2026;Red;Win;Kelra;Goldlane;Paquito;Dyrroth;Flicker;ONIC;Team Falcons PH;2 - 0;3;1;4;10:13;Expanding Rivers;Playoffs
+MSC26_PO_M07_G2;01/08/2026;Red;Win;Kiboy;Roamer;Atlas;Hanabi;Flicker;ONIC;Team Falcons PH;2 - 0;0;0;9;10:13;Expanding Rivers;Playoffs
+MSC26_PO_M07_G2;01/08/2026;Blue;Lose;Flap;Explane;Esmeralda;Barats;Purify;Team Falcons PH;ONIC;0 - 2;0;3;0;10:13;Expanding Rivers;Playoffs
+MSC26_PO_M07_G2;01/08/2026;Blue;Lose;Kyle;Jungler;Fanny;Melissa;Retribution;Team Falcons PH;ONIC;0 - 2;1;4;1;10:13;Expanding Rivers;Playoffs
+MSC26_PO_M07_G2;01/08/2026;Blue;Lose;Hadji;Midlane;Zhuxin;Marcel;Purify;Team Falcons PH;ONIC;0 - 2;1;1;0;10:13;Expanding Rivers;Playoffs
+MSC26_PO_M07_G2;01/08/2026;Blue;Lose;Super Marco;Goldlane;Claude;Eudora;Purify;Team Falcons PH;ONIC;0 - 2;0;0;1;10:13;Expanding Rivers;Playoffs
+MSC26_PO_M07_G2;01/08/2026;Blue;Lose;Owgwen;Roamer;Belerick;Brody;Flicker;Team Falcons PH;ONIC;0 - 2;0;3;2;10:13;Expanding Rivers;Playoffs
+MSC26_PO_M07_G3;01/08/2026;Red;Win;Lutpiii;Explane;Barats;Freya;Flicker;ONIC;Team Falcons PH;3 - 0;2;3;10;19:12;Dangerous Grass;Playoffs
+MSC26_PO_M07_G3;01/08/2026;Red;Win;Kairi;Jungler;Hirara;Selena;Retribution;ONIC;Team Falcons PH;3 - 0;11;0;3;19:12;Dangerous Grass;Playoffs
+MSC26_PO_M07_G3;01/08/2026;Red;Win;Sanz;Midlane;Eudora;Uranus;Flicker;ONIC;Team Falcons PH;3 - 0;2;2;9;19:12;Dangerous Grass;Playoffs
+MSC26_PO_M07_G3;01/08/2026;Red;Win;Kelra;Goldlane;Paquito;Lapu lapu;Flicker;ONIC;Team Falcons PH;3 - 0;1;1;6;19:12;Dangerous Grass;Playoffs
+MSC26_PO_M07_G3;01/08/2026;Red;Win;Kiboy;Roamer;Mathilda;Arlott;Purify;ONIC;Team Falcons PH;3 - 0;0;1;12;19:12;Dangerous Grass;Playoffs
+MSC26_PO_M07_G3;01/08/2026;Blue;Lose;Flap;Explane;Sora;Fanny;Flicker;Team Falcons PH;ONIC;0 - 3;0;6;2;19:12;Dangerous Grass;Playoffs
+MSC26_PO_M07_G3;01/08/2026;Blue;Lose;Kyle;Jungler;Guinevere;Atlas;Retribution;Team Falcons PH;ONIC;0 - 3;1;4;5;19:12;Dangerous Grass;Playoffs
+MSC26_PO_M07_G3;01/08/2026;Blue;Lose;Hadji;Midlane;Pharsa;Valentina;Purify;Team Falcons PH;ONIC;0 - 3;1;3;6;19:12;Dangerous Grass;Playoffs
+MSC26_PO_M07_G3;01/08/2026;Blue;Lose;Super Marco;Goldlane;Claude;Zhuxin;Purify;Team Falcons PH;ONIC;0 - 3;4;1;1;19:12;Dangerous Grass;Playoffs
+MSC26_PO_M07_G3;01/08/2026;Blue;Lose;Owgwen;Roamer;Marcel;Harith;Purify;Team Falcons PH;ONIC;0 - 3;1;2;5;19:12;Dangerous Grass;Playoffs
+MSC26_PO_M08_G1;01/08/2026;Red;Win;Kid Bomba;Explane;Barats;Freya;Flicker;Team Spirit;Yangon Galacticos;1 - 0;0;1;8;16:44;Expanding Rivers;Playoffs
+MSC26_PO_M08_G1;01/08/2026;Red;Win;zaur egoist;Jungler;Hirara;Fanny;Retribution;Team Spirit;Yangon Galacticos;1 - 0;6;0;4;16:44;Expanding Rivers;Playoffs
+MSC26_PO_M08_G1;01/08/2026;Red;Win;Sunset Lover;Midlane;Eudora;Zhuxin;Flicker;Team Spirit;Yangon Galacticos;1 - 0;5;2;8;16:44;Expanding Rivers;Playoffs
+MSC26_PO_M08_G1;01/08/2026;Red;Win;Hiko;Goldlane;Paquito;Guinevere;Flicker;Team Spirit;Yangon Galacticos;1 - 0;2;0;2;16:44;Expanding Rivers;Playoffs
+MSC26_PO_M08_G1;01/08/2026;Red;Win;Sawo;Roamer;Chip;Lukas;Flicker;Team Spirit;Yangon Galacticos;1 - 0;0;2;8;16:44;Expanding Rivers;Playoffs
+MSC26_PO_M08_G1;01/08/2026;Blue;Lose;Ying;Explane;Uranus;Valentina;Purify;Yangon Galacticos;Team Spirit;0 - 1;0;4;3;16:44;Expanding Rivers;Playoffs
+MSC26_PO_M08_G1;01/08/2026;Blue;Lose;Hannn;Jungler;Suyou;Harley;Retribution;Yangon Galacticos;Team Spirit;0 - 1;3;1;0;16:44;Expanding Rivers;Playoffs
+MSC26_PO_M08_G1;01/08/2026;Blue;Lose;Kaize;Midlane;Gord;Atlas;Flicker;Yangon Galacticos;Team Spirit;0 - 1;1;1;3;16:44;Expanding Rivers;Playoffs
+MSC26_PO_M08_G1;01/08/2026;Blue;Lose;Sanji(MM);Goldlane;Claude;Mathilda;Purify;Yangon Galacticos;Team Spirit;0 - 1;1;1;3;16:44;Expanding Rivers;Playoffs
+MSC26_PO_M08_G1;01/08/2026;Blue;Lose;Blink;Roamer;Marcel;Chou;Flicker;Yangon Galacticos;Team Spirit;0 - 1;0;6;1;16:44;Expanding Rivers;Playoffs
+MSC26_PO_M08_G2;01/08/2026;Red;Lose;Kid Bomba;Explane;Esmeralda;Freya;Purify;Team Spirit;Yangon Galacticos;1 - 1;1;3;1;16:24;Expanding Rivers;Playoffs
+MSC26_PO_M08_G2;01/08/2026;Red;Lose;zaur egoist;Jungler;Harley;Fanny;Retribution;Team Spirit;Yangon Galacticos;1 - 1;1;2;0;16:24;Expanding Rivers;Playoffs
+MSC26_PO_M08_G2;01/08/2026;Red;Lose;Sunset Lover;Midlane;Valentina;Eudora;Flicker;Team Spirit;Yangon Galacticos;1 - 1;0;3;1;16:24;Expanding Rivers;Playoffs
+MSC26_PO_M08_G2;01/08/2026;Red;Lose;Hiko;Goldlane;Clint;Dyrroth;Flicker;Team Spirit;Yangon Galacticos;1 - 1;0;3;2;16:24;Expanding Rivers;Playoffs
+MSC26_PO_M08_G2;01/08/2026;Red;Lose;Sawo;Roamer;Belerick;Ruby;Flicker;Team Spirit;Yangon Galacticos;1 - 1;0;5;1;16:24;Expanding Rivers;Playoffs
+MSC26_PO_M08_G2;01/08/2026;Blue;Win;Ying;Explane;Arlott;Paquito;Flicker;Yangon Galacticos;Team Spirit;1 - 1;2;1;8;16:24;Expanding Rivers;Playoffs
+MSC26_PO_M08_G2;01/08/2026;Blue;Win;Hannn;Jungler;Hirara;Barats;Retribution;Yangon Galacticos;Team Spirit;1 - 1;5;0;4;16:24;Expanding Rivers;Playoffs
+MSC26_PO_M08_G2;01/08/2026;Blue;Win;Kaize;Midlane;Selena;Atlas;Flicker;Yangon Galacticos;Team Spirit;1 - 1;5;0;7;16:24;Expanding Rivers;Playoffs
+MSC26_PO_M08_G2;01/08/2026;Blue;Win;Sanji(MM);Goldlane;Claude;Melissa;Purify;Yangon Galacticos;Team Spirit;1 - 1;2;0;9;16:24;Expanding Rivers;Playoffs
+MSC26_PO_M08_G2;01/08/2026;Blue;Win;Blink;Roamer;Gloo;Zhuxin;Flicker;Yangon Galacticos;Team Spirit;1 - 1;2;1;10;16:24;Expanding Rivers;Playoffs
+MSC26_PO_M08_G3;01/08/2026;Blue;Win;Kid Bomba;Explane;Lapu lapu;Zhuxin;Flicker;Team Spirit;Yangon Galacticos;2 - 1;4;0;4;12:51;Expanding Rivers;Playoffs
+MSC26_PO_M08_G3;01/08/2026;Blue;Win;zaur egoist;Jungler;Hirara;Atlas;Retribution;Team Spirit;Yangon Galacticos;2 - 1;7;0;6;12:51;Expanding Rivers;Playoffs
+MSC26_PO_M08_G3;01/08/2026;Blue;Win;Sunset Lover;Midlane;Selena;Fanny;Flicker;Team Spirit;Yangon Galacticos;2 - 1;2;1;5;12:51;Expanding Rivers;Playoffs
+MSC26_PO_M08_G3;01/08/2026;Blue;Win;Hiko;Goldlane;Harith;Guinevere;Purify;Team Spirit;Yangon Galacticos;2 - 1;2;0;4;12:51;Expanding Rivers;Playoffs
+MSC26_PO_M08_G3;01/08/2026;Blue;Win;Sawo;Roamer;Belerick;Arlott;Flicker;Team Spirit;Yangon Galacticos;2 - 1;1;0;12;12:51;Expanding Rivers;Playoffs
+MSC26_PO_M08_G3;01/08/2026;Red;Lose;Ying;Explane;Ruby;Freya;Flicker;Yangon Galacticos;Team Spirit;1 - 2;0;4;1;12:51;Expanding Rivers;Playoffs
+MSC26_PO_M08_G3;01/08/2026;Red;Lose;Hannn;Jungler;Nolan;Barats;Retribution;Yangon Galacticos;Team Spirit;1 - 2;0;2;1;12:51;Expanding Rivers;Playoffs
+MSC26_PO_M08_G3;01/08/2026;Red;Lose;Kaize;Midlane;Eudora;Paquito;Flicker;Yangon Galacticos;Team Spirit;1 - 2;1;3;0;12:51;Expanding Rivers;Playoffs
+MSC26_PO_M08_G3;01/08/2026;Red;Lose;Sanji(MM);Goldlane;Claude;Melissa;Purify;Yangon Galacticos;Team Spirit;1 - 2;0;2;0;12:51;Expanding Rivers;Playoffs
+MSC26_PO_M08_G3;01/08/2026;Red;Lose;Blink;Roamer;Gloo;Phoveus;Flicker;Yangon Galacticos;Team Spirit;1 - 2;0;5;0;12:51;Expanding Rivers;Playoffs
+MSC26_PO_M08_G4;01/08/2026;Red;Win;Kid Bomba;Explane;Uranus;Freya;Purify;Team Spirit;Yangon Galacticos;3 - 1;2;0;10;15:30;Flying Clouds;Playoffs
+MSC26_PO_M08_G4;01/08/2026;Red;Win;zaur egoist;Jungler;Yi Sunshin;Fanny;Retribution;Team Spirit;Yangon Galacticos;3 - 1;2;0;9;15:30;Flying Clouds;Playoffs
+MSC26_PO_M08_G4;01/08/2026;Red;Win;Sunset Lover;Midlane;Zhuxin;Hirara;Purify;Team Spirit;Yangon Galacticos;3 - 1;1;0;11;15:30;Flying Clouds;Playoffs
+MSC26_PO_M08_G4;01/08/2026;Red;Win;Hiko;Goldlane;Granger;Guinevere;Flicker;Team Spirit;Yangon Galacticos;3 - 1;9;2;5;15:30;Flying Clouds;Playoffs
+MSC26_PO_M08_G4;01/08/2026;Red;Win;Sawo;Roamer;Marcel;Arlott;Revitalize;Team Spirit;Yangon Galacticos;3 - 1;0;3;12;15:30;Flying Clouds;Playoffs
+MSC26_PO_M08_G4;01/08/2026;Blue;Lose;Ying;Explane;Benedetta;Barats;Petrify;Yangon Galacticos;Team Spirit;1 - 3;1;3;0;15:30;Flying Clouds;Playoffs
+MSC26_PO_M08_G4;01/08/2026;Blue;Lose;Hannn;Jungler;Baxia;Atlas;Retribution;Yangon Galacticos;Team Spirit;1 - 3;1;2;3;15:30;Flying Clouds;Playoffs
+MSC26_PO_M08_G4;01/08/2026;Blue;Lose;Kaize;Midlane;Eudora;Paquito;Flicker;Yangon Galacticos;Team Spirit;1 - 3;0;3;5;15:30;Flying Clouds;Playoffs
+MSC26_PO_M08_G4;01/08/2026;Blue;Lose;Sanji(MM);Goldlane;Claude;Chou;Flicker;Yangon Galacticos;Team Spirit;1 - 3;1;2;2;15:30;Flying Clouds;Playoffs
+MSC26_PO_M08_G4;01/08/2026;Blue;Lose;Blink;Roamer;Belerick;Harith;Flicker;Yangon Galacticos;Team Spirit;1 - 3;2;4;3;15:30;Flying Clouds;Playoffs
+MSC26_PO_M08_G5;01/08/2026;Red;Lose;Kid Bomba;Explane;Phoveus;Freya;Flicker;Team Spirit;Yangon Galacticos;3 - 2;0;7;0;11:18;Broken Walls;Playoffs
+MSC26_PO_M08_G5;01/08/2026;Red;Lose;zaur egoist;Jungler;Harley;Fanny;Retribution;Team Spirit;Yangon Galacticos;3 - 2;0;2;2;11:18;Broken Walls;Playoffs
+MSC26_PO_M08_G5;01/08/2026;Red;Lose;Sunset Lover;Midlane;Selena;Hirara;Flicker;Team Spirit;Yangon Galacticos;3 - 2;1;0;1;11:18;Broken Walls;Playoffs
+MSC26_PO_M08_G5;01/08/2026;Red;Lose;Hiko;Goldlane;Paquito;Clint;Flicker;Team Spirit;Yangon Galacticos;3 - 2;1;5;1;11:18;Broken Walls;Playoffs
+MSC26_PO_M08_G5;01/08/2026;Red;Lose;Sawo;Roamer;Marcel;Gloo;Revitalize;Team Spirit;Yangon Galacticos;3 - 2;0;3;1;11:18;Broken Walls;Playoffs
+MSC26_PO_M08_G5;01/08/2026;Blue;Win;Ying;Explane;Arlott;Atlas;Flicker;Yangon Galacticos;Team Spirit;2 - 3;6;0;7;11:18;Broken Walls;Playoffs
+MSC26_PO_M08_G5;01/08/2026;Blue;Win;Hannn;Jungler;Guinevere;Barats;Retribution;Yangon Galacticos;Team Spirit;2 - 3;5;0;9;11:18;Broken Walls;Playoffs
+MSC26_PO_M08_G5;01/08/2026;Blue;Win;Kaize;Midlane;Zhuxin;Belerick;Flicker;Yangon Galacticos;Team Spirit;2 - 3;0;2;10;11:18;Broken Walls;Playoffs
+MSC26_PO_M08_G5;01/08/2026;Blue;Win;Sanji(MM);Goldlane;Brody;Lapu lapu;Flicker;Yangon Galacticos;Team Spirit;2 - 3;3;0;6;11:18;Broken Walls;Playoffs
+MSC26_PO_M08_G5;01/08/2026;Blue;Win;Blink;Roamer;Badang;Uranus;Flicker;Yangon Galacticos;Team Spirit;2 - 3;3;0;11;11:18;Broken Walls;Playoffs
+MSC26_PO_M08_G6;01/08/2026;Blue;Lose;Kid Bomba;Explane;Esmeralda;Zhuxin;Purify;Team Spirit;Yangon Galacticos;3 - 3;0;2;1;10:11;Flying Clouds;Playoffs
+MSC26_PO_M08_G6;01/08/2026;Blue;Lose;zaur egoist;Jungler;Hirara;Guinevere;Retribution;Team Spirit;Yangon Galacticos;3 - 3;0;4;1;10:11;Flying Clouds;Playoffs
+MSC26_PO_M08_G6;01/08/2026;Blue;Lose;Sunset Lover;Midlane;Valentina;Fanny;Flicker;Team Spirit;Yangon Galacticos;3 - 3;0;5;1;10:11;Flying Clouds;Playoffs
+MSC26_PO_M08_G6;01/08/2026;Blue;Lose;Hiko;Goldlane;Melissa;Arlott;Flicker;Team Spirit;Yangon Galacticos;3 - 3;1;1;0;10:11;Flying Clouds;Playoffs
+MSC26_PO_M08_G6;01/08/2026;Blue;Lose;Sawo;Roamer;Gatot Kaca;Badang;Revitalize;Team Spirit;Yangon Galacticos;3 - 3;0;5;0;10:11;Flying Clouds;Playoffs
+MSC26_PO_M08_G6;01/08/2026;Red;Win;Ying;Explane;Dyrroth;Freya;Flicker;Yangon Galacticos;Team Spirit;3 - 3;5;1;8;10:11;Flying Clouds;Playoffs
+MSC26_PO_M08_G6;01/08/2026;Red;Win;Hannn;Jungler;Paquito;Barats;Retribution;Yangon Galacticos;Team Spirit;3 - 3;6;0;8;10:11;Flying Clouds;Playoffs
+MSC26_PO_M08_G6;01/08/2026;Red;Win;Kaize;Midlane;Rafaela;Atlas;Flicker;Yangon Galacticos;Team Spirit;3 - 3;2;0;12;10:11;Flying Clouds;Playoffs
+MSC26_PO_M08_G6;01/08/2026;Red;Win;Sanji(MM);Goldlane;Claude;Eudora;Purify;Yangon Galacticos;Team Spirit;3 - 3;3;0;5;10:11;Flying Clouds;Playoffs
+MSC26_PO_M08_G6;01/08/2026;Red;Win;Blink;Roamer;Belerick;Minotaur;Flicker;Yangon Galacticos;Team Spirit;3 - 3;1;0;12;10:11;Flying Clouds;Playoffs
+MSC26_PO_M08_G7;01/08/2026;Blue;Win;Kid Bomba;Explane;Lapu lapu;Zhuxin;Flicker;Team Spirit;Yangon Galacticos;4 - 3;1;0;8;16:21;Broken Walls;Playoffs
+MSC26_PO_M08_G7;01/08/2026;Blue;Win;zaur egoist;Jungler;Hirara;Guinevere;Retribution;Team Spirit;Yangon Galacticos;4 - 3;5;1;5;16:21;Broken Walls;Playoffs
+MSC26_PO_M08_G7;01/08/2026;Blue;Win;Sunset Lover;Midlane;Valentina;Fanny;Flicker;Team Spirit;Yangon Galacticos;4 - 3;3;1;6;16:21;Broken Walls;Playoffs
+MSC26_PO_M08_G7;01/08/2026;Blue;Win;Hiko;Goldlane;Melissa;Arlott;Purify;Team Spirit;Yangon Galacticos;4 - 3;5;0;7;16:21;Broken Walls;Playoffs
+MSC26_PO_M08_G7;01/08/2026;Blue;Win;Sawo;Roamer;Gatot Kaca;Dyrroth;Revitalize;Team Spirit;Yangon Galacticos;4 - 3;0;1;9;16:21;Broken Walls;Playoffs
+MSC26_PO_M08_G7;01/08/2026;Red;Lose;Ying;Explane;Paquito;Freya;Flicker;Yangon Galacticos;Team Spirit;3 - 4;1;3;2;16:21;Broken Walls;Playoffs
+MSC26_PO_M08_G7;01/08/2026;Red;Lose;Hannn;Jungler;Suyou;Barats;Retribution;Yangon Galacticos;Team Spirit;3 - 4;0;4;2;16:21;Broken Walls;Playoffs
+MSC26_PO_M08_G7;01/08/2026;Red;Lose;Kaize;Midlane;Selena;Atlas;Flicker;Yangon Galacticos;Team Spirit;3 - 4;2;1;0;16:21;Broken Walls;Playoffs
+MSC26_PO_M08_G7;01/08/2026;Red;Lose;Sanji(MM);Goldlane;Claude;Esmeralda;Purify;Yangon Galacticos;Team Spirit;3 - 4;0;1;0;16:21;Broken Walls;Playoffs
+MSC26_PO_M08_G7;01/08/2026;Red;Lose;Blink;Roamer;Belerick;Uranus;Flicker;Yangon Galacticos;Team Spirit;3 - 4;0;5;2;16:21;Broken Walls;Playoffs
