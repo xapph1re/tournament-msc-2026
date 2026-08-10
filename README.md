@@ -11,9 +11,7 @@ Tournament MLBB MSC 2026 Data Analysis using Excel & Power BI
 
 ## 📌 Executive Summary
 
-Proyek ini menyajikan **end-to-end data analytics** untuk turnamen **Mobile Legends: Bang Bang Mid Season Cup (MSC) 2026** di ajang **Esports World Cup (EWC 2026)** yang berlangsung pada **1 Juli – 1 Agustus 2026**.
-
-Karena data mentah turnamen belum tersedia secara publik saat kompetisi berakhir, pengumpulan data dilakukan secara **manual & terstruktur** melalui ekstraksi web **Liquipedia** serta peninjauan ulang siaran pertandingan (**YouTube VODs**). Dataset yang terkumpul kemudian dibersihkan kemudian diolah dan divisualisasikan dalam **Microsoft Power BI Dashboard** interaktif.
+Proyek ini menyajikan **end-to-end data analytics** untuk turnamen **Mobile Legends: Bang Bang Mid Season Cup (MSC) 2026** di ajang **Esports World Cup (EWC 2026)** yang berlangsung pada **1 Juli – 1 Agustus 2026**.Karena data mentah turnamen belum tersedia secara publik saat kompetisi berakhir, pengumpulan data dilakukan secara **manual & terstruktur** melalui ekstraksi web **Liquipedia** serta peninjauan ulang siaran pertandingan (**YouTube VODs**). Dataset yang terkumpul kemudian dibersihkan kemudian diolah dan divisualisasikan dalam **Microsoft Power BI Dashboard** interaktif.
 
 ---
 
@@ -83,7 +81,7 @@ Karena data mentah turnamen belum tersedia secara publik saat kompetisi berakhir
 
 ## 📑 Data Dictionary (Schema)
 
-Dataset `MWI_X_EWC_2026.csv` mencakup **17 kolom utama** per baris pemain:
+Dataset `MWI_X_EWC_2026.csv` mencakup **18 kolom utama** per baris pemain:
 
 | Nama Kolom | Tipe Data | Deskripsi |
 | :--- | :--- | :--- |
@@ -112,10 +110,10 @@ Dataset `MWI_X_EWC_2026.csv` mencakup **17 kolom utama** per baris pemain:
 
 1. **Clone Repository ini:**
    ```bash
-   git clone https://github.com/xapph1re/MLBB-MSC-2026.git
+   git clone https://github.com/xapph1re/tournament-msc-2026.git
    ```
 2. **Eksplorasi Data Mentah:** Buka file `msc_all_general_fix.csv` menggunakan Excel, Python (Pandas), atau impor ke Database SQL.
-3. **Buka Dashboard Power BI:** Buka file `MSC_2026.pbix` menggunakan **Power BI Desktop** untuk melihat interaksi visualisasi, model DAX, dan grafik.
+3. **Buka Dashboard Power BI:** Buka file `MSC 2026.pbix` menggunakan **Power BI Desktop** untuk melihat interaksi visualisasi, model DAX, dan grafik.
 
 ---
 
