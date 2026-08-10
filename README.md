@@ -1,9 +1,10 @@
 # tournament-msc-2026
 Tournament MLBB MSC 2026 Data Analysis using Excel & Power BI
-# 🏆 MWI 2026 Analytics: Cracking The META & Performance Blueprint
+# 🏆 Mobile Legends: Bang Bang MSC 2026
 
 [![Esports World Cup 2026](https://img.shields.io/badge/EWC-2026-gold?style=for-the-badge&logo=trophy)](https://esportsworldcup.com/)
-[![Mid Season Cup 2026](https://img.shields.io/badge/Tournament-MSC_2026-#0B00A3?style=for-the-badge)]([https://liquipedia.net/mobilelegends/MSC/2026])
+[![Mid Season Cup 2026](<img width="1200" height="263" alt="image" src="https://github.com/user-attachments/assets/8c2a0d89-e6ad-4673-9bb7-7c5487e8f52c" />)
+]([https://liquipedia.net/mobilelegends/MSC/2026])
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](#-dashboard-preview--features
 [![Dataset](https://img.shields.io/badge/Format-CSV-green?style=for-the-badge)](#-repository-structure)
 
@@ -22,14 +23,13 @@ Karena data mentah turnamen belum tersedia secara publik saat kompetisi berakhir
 [MWI 2026 Dashboard Preview]
 **MLBB MID SEASON CUP 2026** <img width="1322" height="742" alt="Dashboard Overall" src="https://github.com/user-attachments/assets/c8fcafb0-78a8-4f95-958a-a674c7fdd023" />
 
+
 ### 🎯 Fitur Utama Dashboard:
 ** Visualisasi *Total Presence by Name Hero*, *Win Rate by Side*, serta *Total Hero, Total Games & Avg Match Duration*
 ---
 
+
 ## 🔥 Key Insights (Temuan Utama)
-
-### Part 1: 🔮 Cracking The META (Draft & Meta Dynamics)
-
 1. **Balance Hero**
    - Dari total 133 hero di MLBB, hanya **76 hero** yang tersentuh di fase *Pick* maupun *Ban*. Mengingat MSC 2026 masih menerapkan format *Draft Pick* standar (non-Global Ban/Fearless Draft), perebutan hero sangat terkonsentrasi pada 76 hero *tier-S* yang paling efektif sesuai meta turnamen.
 
