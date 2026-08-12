@@ -60,7 +60,7 @@ Proyek ini menyajikan **end-to-end data analytics** untuk turnamen **Mobile Lege
 [ Interactive Visual Dashboard & Documentation ]
 ```
 
-- **Data Collection:** Liquipedia Web Scraping & YouTube Tournament Review
+- **Data Collection:** Liquipedia & YouTube Tournament Review
 - **Data Storage:** Flat CSV (`msc_all_general_fix`)
 - **Data Visualization & Modeling:** Microsoft Power BI (`MSC 2026.pbix`)
 - **Version Control & Portfolio:** GitHub
